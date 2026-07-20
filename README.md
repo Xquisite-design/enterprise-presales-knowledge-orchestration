@@ -49,6 +49,8 @@ Architecture diagrams
 Research workflow
 Research Methodology
 
+**Details**
+
 The research follows a Design Science Research (DSR) methodology consisting of five stages:
 
 Curated corpus construction
