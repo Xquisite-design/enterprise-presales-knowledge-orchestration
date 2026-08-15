@@ -1,0 +1,30 @@
+Variable,Missing,Unique Categories
+Question_ID,0,900
+Vendor,0,8
+Source Website,0,8
+Question URL,0,98
+Source URL,0,75
+Question,0,896
+Official Answer,0,900
+Official Answer Summary,0,899
+Official Documentation URL(s),0,74
+Knowledge Asset Category,0,10
+Technology Domain,0,10
+Cloud Platform,0,8
+Presales Category,0,10
+Business Capability,0,10
+Question Intent,0,7
+Question Type,0,7
+Question Complexity,0,3
+Question Length,0,30
+Number of Technologies Mentioned,0,13
+Document Type,0,10
+Publication Date,900,0
+Tags,0,296
+Accepted Answer Available?,900,0
+Accepted Answer URL,900,0
+Answer Confidence,0,2
+Estimated RFP Relevance (1-5),0,3
+Public Knowledge Only?,0,2
+Enterprise Knowledge Required,0,4
+Notes,0,5

@@ -1,0 +1,401 @@
+Question,Method,RQI
+What is CloudWatch Container Insights?,Baseline,5.0
+Can I train a model and deploy it on Amazon Bedrock?,Baseline,0.0
+What are the benefits of a default VPC?,Baseline,0.8
+How does Amazon ECS support service-to-service communication?,Baseline,2.0
+Why is an AWS Direct Connect gateway necessary?,Baseline,1.0
+How do I get started with Amazon VPC?,Baseline,4.5
+Can I use the Route Analyzer on my existing Transit Gateways?,Baseline,0.0
+Can I connect VPCs belonging to different accounts using Private Link (VPC Endpoints) and be guaranteed that all traffic is encrypted when using VPC Encryption Controls?,Baseline,0.0
+Does AWS Backup support compression for VMware backups?,Baseline,0.0
+How do I perform a network security analysis?,Baseline,2.0
+What existing AWS services can I use within SageMaker?,Baseline,4.0
+Can I apply additional security configuration and isolation frameworks to my container instances?,Baseline,3.0
+What are Route 53 Resolver endpoints?,Baseline,4.0
+Which AWS partners are supporting AWS Transit Gateway Network Manager?,Baseline,3.0
+"Since VPC endpoints have their own DNS names, do I need to update my code to start using VPC endpoints?",Baseline,1.0
+Can I use AWS CloudTrail logs to roll back changes to my hosted zones?,Baseline,1.0
+What is the expected performance of AWS Network Firewall with multiple endpoints?,Baseline,2.0
+When should I use Amazon RDS zero-ETL integration with Amazon Redshift?,Baseline,5.0
+How should I secure my origins with CloudFront?,Baseline,5.0
+What is the recommended best practice when moving file data to and from on-premises servers?,Baseline,2.0
+When should I use Amazon Bedrock's capabilities in Amazon SageMaker Unified Studio?,Baseline,4.0
+I received a notice that Direct Connect is performing maintenance at a time that impacts our business. How do I prepare for maintenance on my Direct Connect connection?,Baseline,1.0
+What is AWS Control Tower and who should use this service?,Baseline,4.0
+Will there be any business disruption during the migration process?,Baseline,2.0
+Who oversees data governance?,Baseline,4.0
+Who should use CloudFront origin mutual TLS authentication?,Baseline,4.0
+What security and compliance standards does Amazon Bedrock support?,Baseline,3.0
+"If I have multiple connections to the same Direct Connect location, will all my connections go down during maintenance?",Baseline,2.0
+What are the key benefits of the Extended Threat Detection capabilities?,Baseline,2.0
+What are the key benefits of Security Hub?,Baseline,4.0
+What does it cost to use Amazon S3 Event Notifications?,Baseline,1.0
+What is the pricing structure of AWS Audit Manager?,Baseline,0.75
+I am an AWS Shield Advanced customer; will my price increase with this feature?,Baseline,0.0
+How does Redshift Multi-AZ compare to the existing Redshift Relocation feature?,Baseline,4.0
+Will using GuardDuty EKS Protection impact the performance or cost of running containers on Amazon EKS?,Baseline,2.0
+How do I get started with Amazon CloudWatch Application Signals?,Baseline,4.0
+Q: How does suspend and resume work for Lambda MicroVMs?,Baseline,4.0
+How am I charged for AWS Shield network security director?,Baseline,0.0
+How do I determine the right reservation size for my workload?,Baseline,2.0
+How much does GuardDuty cost?,Baseline,3.0
+Are there any prerequisites to creating backups of S3 buckets?,Baseline,0.0
+What is AWS Backup?,Baseline,5.0
+How does CloudFront Security Savings Bundle work with AWS Organizations/ Consolidated Billing?,Baseline,4.0
+What is AWS Transform MGN?,Baseline,5.0
+What are Amazon S3 Tables?,Baseline,2.0
+How can I secure my CloudTrail log files?,Baseline,5.0
+How can I monitor the DDoS events mitigated by AWS WAF application layer (L7) DDoS protection?,Baseline,4.5
+How do I differentiate between findings from Security Hub and Security Hub CSPM?,Baseline,4.0
+What is AWS Config?,Baseline,1.0
+What is a policy?,Baseline,3.0
+Do I need any special hardware to use MACsec?,Baseline,1.0
+How can I audit the use of keys in a custom key store?,Baseline,2.0
+How are these capabilities different from what Amazon S3 provides?,Baseline,2.0
+What is Amazon Bedrock AgentCore?,Baseline,4.0
+How does delegated administrator work?,Baseline,2.0
+How do I use AWS DataSync with Amazon EFS file system resource policies?,Baseline,1.0
+How are AWS Config and AWS Config rules related to Security Hub CSPM?,Baseline,1.0
+Can I copy VMware backups to another AWS Region?,Baseline,1.0
+What is the AWS Key Management Service (KMS)?,Baseline,5.0
+Is AWS WAF HIPAA eligible?,Baseline,1.0
+How can I get started with CloudWatch Lambda Insights?,Baseline,3.0
+How does AWS Glue relate to Sagemaker Data Processing?,Baseline,1.0
+How does Lake Formation relate to AWS Glue and the AWS Glue Data Catalog?,Baseline,5.0
+What data centers can I use during the transition period?,Baseline,0.0
+How does Amazon ECS support autoscaling of applications?,Baseline,4.0
+How do I enable Amazon S3 Replication metrics and events?,Baseline,2.0
+How do I back up and restore my Amazon Redshift data using AWS Backup?,Baseline,4.0
+How can I get started with CloudWatch Container Insights?,Baseline,3.0
+How can I get started?,Baseline,2.0
+How does Amazon Redshift Serverless work with other AWS services?,Baseline,1.0
+How can I access an AWS account that was created in my organization?,Baseline,0.7
+How do I manage a connection to data sources in AWS Glue?,Baseline,5.0
+How can I monitor my Schema Registry usage?,Baseline,0.0
+How can I see if my AWS WAF rules are working?,Baseline,1.0
+How can I see if my rules are working?,Baseline,2.0
+What is AWS Glue DataBrew?,Baseline,1.0
+What are the AWS DRS service level agreement (SLA) terms?,Baseline,1.0
+Where is my object and object metadata stored in AWS Local Zones?,Baseline,0.0
+What is Amazon Bedrock in SageMaker Unified Studio?,Baseline,0.9
+Does S3 Access Grants work with KMS?,Baseline,2.0
+Why is AWS Elastic Disaster Recovery shortened to “AWS DRS”?,Baseline,2.0
+What types of virtual interfaces (VIFs) are supported by AWS Direct Connect SiteLink?,Baseline,1.0
+What are S3 object tags?,Baseline,1.0
+Who has access to my project?,Baseline,0.5
+Can I be alerted that I need to re-import the key?,Baseline,0.5
+How will serverless applications benefit from Amazon RDS Proxy?,Baseline,5.0
+Can I use individual AWS services without using SageMaker?,Baseline,1.0
+How is Amazon ECS different from AWS Lambda?,Baseline,1.0
+How is my data encrypted in an S3 file system?,Baseline,3.0
+What is data protection in Amazon CloudWatch Logs?,Baseline,2.0
+How do I migrate my existing AWS KMS keys to use FIPS 140-3 Security Level 3 validated HSMs?,Baseline,0.0
+What AWS-native options do I have to transfer data into my file system?,Baseline,1.0
+When do I use AWS DataSync and when do I use AWS Transfer Family?,Baseline,1.0
+How do AWS Partners and AWS Managed Services work together?,Baseline,4.5
+What is AWS Lake Formation?,Baseline,4.0
+Will AWS Database Migration Service help me convert my Oracle PL/SQL and SQL Server T-SQL code to Amazon RDS for MySQL and Amazon RDS for PostgreSQL stored procedures?,Baseline,3.0
+Is the migration intrusive?,Baseline,0.0
+How does Amazon Bedrock integrate with other AWS services within Amazon SageMaker Unified Studio to create generative AI applications?,Baseline,4.0
+Do I need to be fully migrated on the date my data center is consolidated?,Baseline,0.0
+How do I get started with AWS Database Migration Service?,Baseline,9.0
+What is CloudWatch Container Insights?,GroundTruth,1.0
+Can I train a model and deploy it on Amazon Bedrock?,GroundTruth,1.0
+What are the benefits of a default VPC?,GroundTruth,1.0
+How does Amazon ECS support service-to-service communication?,GroundTruth,5.0
+Why is an AWS Direct Connect gateway necessary?,GroundTruth,4.0
+How do I get started with Amazon VPC?,GroundTruth,5.0
+Can I use the Route Analyzer on my existing Transit Gateways?,GroundTruth,1.0
+Can I connect VPCs belonging to different accounts using Private Link (VPC Endpoints) and be guaranteed that all traffic is encrypted when using VPC Encryption Controls?,GroundTruth,1.0
+Does AWS Backup support compression for VMware backups?,GroundTruth,1.0
+How do I perform a network security analysis?,GroundTruth,4.0
+What existing AWS services can I use within SageMaker?,GroundTruth,0.87
+Can I apply additional security configuration and isolation frameworks to my container instances?,GroundTruth,5.0
+What are Route 53 Resolver endpoints?,GroundTruth,1.0
+Which AWS partners are supporting AWS Transit Gateway Network Manager?,GroundTruth,0.0
+"Since VPC endpoints have their own DNS names, do I need to update my code to start using VPC endpoints?",GroundTruth,1.0
+Can I use AWS CloudTrail logs to roll back changes to my hosted zones?,GroundTruth,1.0
+What is the expected performance of AWS Network Firewall with multiple endpoints?,GroundTruth,1.0
+When should I use Amazon RDS zero-ETL integration with Amazon Redshift?,GroundTruth,5.0
+How should I secure my origins with CloudFront?,GroundTruth,1.0
+What is the recommended best practice when moving file data to and from on-premises servers?,GroundTruth,4.0
+When should I use Amazon Bedrock's capabilities in Amazon SageMaker Unified Studio?,GroundTruth,4.0
+I received a notice that Direct Connect is performing maintenance at a time that impacts our business. How do I prepare for maintenance on my Direct Connect connection?,GroundTruth,5.0
+What is AWS Control Tower and who should use this service?,GroundTruth,5.0
+Will there be any business disruption during the migration process?,GroundTruth,1.0
+Who oversees data governance?,GroundTruth,5.0
+Who should use CloudFront origin mutual TLS authentication?,GroundTruth,4.0
+What security and compliance standards does Amazon Bedrock support?,GroundTruth,5.0
+"If I have multiple connections to the same Direct Connect location, will all my connections go down during maintenance?",GroundTruth,1.0
+What are the key benefits of the Extended Threat Detection capabilities?,GroundTruth,1.0
+What are the key benefits of Security Hub?,GroundTruth,5.0
+What does it cost to use Amazon S3 Event Notifications?,GroundTruth,1.0
+What is the pricing structure of AWS Audit Manager?,GroundTruth,1.0
+I am an AWS Shield Advanced customer; will my price increase with this feature?,GroundTruth,1.0
+How does Redshift Multi-AZ compare to the existing Redshift Relocation feature?,GroundTruth,1.0
+Will using GuardDuty EKS Protection impact the performance or cost of running containers on Amazon EKS?,GroundTruth,1.0
+How do I get started with Amazon CloudWatch Application Signals?,GroundTruth,3.0
+Q: How does suspend and resume work for Lambda MicroVMs?,GroundTruth,5.0
+How am I charged for AWS Shield network security director?,GroundTruth,1.0
+How do I determine the right reservation size for my workload?,GroundTruth,1.0
+How much does GuardDuty cost?,GroundTruth,2.0
+Are there any prerequisites to creating backups of S3 buckets?,GroundTruth,1.0
+What is AWS Backup?,GroundTruth,5.0
+How does CloudFront Security Savings Bundle work with AWS Organizations/ Consolidated Billing?,GroundTruth,1.0
+What is AWS Transform MGN?,GroundTruth,4.0
+What are Amazon S3 Tables?,GroundTruth,5.0
+How can I secure my CloudTrail log files?,GroundTruth,5.0
+How can I monitor the DDoS events mitigated by AWS WAF application layer (L7) DDoS protection?,GroundTruth,5.0
+How do I differentiate between findings from Security Hub and Security Hub CSPM?,GroundTruth,0.9
+What is AWS Config?,GroundTruth,5.0
+What is a policy?,GroundTruth,7.0
+Do I need any special hardware to use MACsec?,GroundTruth,1.0
+How can I audit the use of keys in a custom key store?,GroundTruth,1.0
+How are these capabilities different from what Amazon S3 provides?,GroundTruth,4.0
+What is Amazon Bedrock AgentCore?,GroundTruth,4.0
+How does delegated administrator work?,GroundTruth,5.0
+How do I use AWS DataSync with Amazon EFS file system resource policies?,GroundTruth,1.0
+How are AWS Config and AWS Config rules related to Security Hub CSPM?,GroundTruth,1.0
+Can I copy VMware backups to another AWS Region?,GroundTruth,1.0
+What is the AWS Key Management Service (KMS)?,GroundTruth,5.0
+Is AWS WAF HIPAA eligible?,GroundTruth,1.0
+How can I get started with CloudWatch Lambda Insights?,GroundTruth,0.7
+How does AWS Glue relate to Sagemaker Data Processing?,GroundTruth,1.0
+How does Lake Formation relate to AWS Glue and the AWS Glue Data Catalog?,GroundTruth,5.0
+What data centers can I use during the transition period?,GroundTruth,1.0
+How does Amazon ECS support autoscaling of applications?,GroundTruth,5.0
+How do I enable Amazon S3 Replication metrics and events?,GroundTruth,1.0
+How do I back up and restore my Amazon Redshift data using AWS Backup?,GroundTruth,1.0
+How can I get started with CloudWatch Container Insights?,GroundTruth,2.0
+How can I get started?,GroundTruth,0.0
+How does Amazon Redshift Serverless work with other AWS services?,GroundTruth,5.0
+How can I access an AWS account that was created in my organization?,GroundTruth,1.0
+How do I manage a connection to data sources in AWS Glue?,GroundTruth,1.0
+How can I monitor my Schema Registry usage?,GroundTruth,1.0
+How can I see if my AWS WAF rules are working?,GroundTruth,1.0
+How can I see if my rules are working?,GroundTruth,1.0
+What is AWS Glue DataBrew?,GroundTruth,1.0
+What are the AWS DRS service level agreement (SLA) terms?,GroundTruth,3.0
+Where is my object and object metadata stored in AWS Local Zones?,GroundTruth,1.0
+What is Amazon Bedrock in SageMaker Unified Studio?,GroundTruth,1.0
+Does S3 Access Grants work with KMS?,GroundTruth,1.0
+Why is AWS Elastic Disaster Recovery shortened to “AWS DRS”?,GroundTruth,1.0
+What types of virtual interfaces (VIFs) are supported by AWS Direct Connect SiteLink?,GroundTruth,1.0
+What are S3 object tags?,GroundTruth,1.0
+Who has access to my project?,GroundTruth,1.0
+Can I be alerted that I need to re-import the key?,GroundTruth,1.0
+How will serverless applications benefit from Amazon RDS Proxy?,GroundTruth,1.0
+Can I use individual AWS services without using SageMaker?,GroundTruth,1.0
+How is Amazon ECS different from AWS Lambda?,GroundTruth,1.0
+How is my data encrypted in an S3 file system?,GroundTruth,1.0
+What is data protection in Amazon CloudWatch Logs?,GroundTruth,1.0
+How do I migrate my existing AWS KMS keys to use FIPS 140-3 Security Level 3 validated HSMs?,GroundTruth,1.0
+What AWS-native options do I have to transfer data into my file system?,GroundTruth,1.0
+When do I use AWS DataSync and when do I use AWS Transfer Family?,GroundTruth,5.0
+How do AWS Partners and AWS Managed Services work together?,GroundTruth,1.0
+What is AWS Lake Formation?,GroundTruth,5.0
+Will AWS Database Migration Service help me convert my Oracle PL/SQL and SQL Server T-SQL code to Amazon RDS for MySQL and Amazon RDS for PostgreSQL stored procedures?,GroundTruth,5.0
+Is the migration intrusive?,GroundTruth,1.0
+How does Amazon Bedrock integrate with other AWS services within Amazon SageMaker Unified Studio to create generative AI applications?,GroundTruth,4.0
+Do I need to be fully migrated on the date my data center is consolidated?,GroundTruth,1.0
+How do I get started with AWS Database Migration Service?,GroundTruth,1.0
+What is CloudWatch Container Insights?,Predicted,4.0
+Can I train a model and deploy it on Amazon Bedrock?,Predicted,0.0
+What are the benefits of a default VPC?,Predicted,4.0
+How does Amazon ECS support service-to-service communication?,Predicted,4.0
+Why is an AWS Direct Connect gateway necessary?,Predicted,1.0
+How do I get started with Amazon VPC?,Predicted,1.0
+Can I use the Route Analyzer on my existing Transit Gateways?,Predicted,0.5
+Can I connect VPCs belonging to different accounts using Private Link (VPC Endpoints) and be guaranteed that all traffic is encrypted when using VPC Encryption Controls?,Predicted,0.0
+Does AWS Backup support compression for VMware backups?,Predicted,0.0
+How do I perform a network security analysis?,Predicted,2.0
+What existing AWS services can I use within SageMaker?,Predicted,3.0
+Can I apply additional security configuration and isolation frameworks to my container instances?,Predicted,2.0
+What are Route 53 Resolver endpoints?,Predicted,5.0
+Which AWS partners are supporting AWS Transit Gateway Network Manager?,Predicted,1.0
+"Since VPC endpoints have their own DNS names, do I need to update my code to start using VPC endpoints?",Predicted,1.0
+Can I use AWS CloudTrail logs to roll back changes to my hosted zones?,Predicted,1.0
+What is the expected performance of AWS Network Firewall with multiple endpoints?,Predicted,3.0
+When should I use Amazon RDS zero-ETL integration with Amazon Redshift?,Predicted,5.0
+How should I secure my origins with CloudFront?,Predicted,5.0
+What is the recommended best practice when moving file data to and from on-premises servers?,Predicted,3.0
+When should I use Amazon Bedrock's capabilities in Amazon SageMaker Unified Studio?,Predicted,4.0
+I received a notice that Direct Connect is performing maintenance at a time that impacts our business. How do I prepare for maintenance on my Direct Connect connection?,Predicted,1.0
+What is AWS Control Tower and who should use this service?,Predicted,5.0
+Will there be any business disruption during the migration process?,Predicted,2.0
+Who oversees data governance?,Predicted,1.0
+Who should use CloudFront origin mutual TLS authentication?,Predicted,4.5
+What security and compliance standards does Amazon Bedrock support?,Predicted,3.0
+"If I have multiple connections to the same Direct Connect location, will all my connections go down during maintenance?",Predicted,0.75
+What are the key benefits of the Extended Threat Detection capabilities?,Predicted,1.0
+What are the key benefits of Security Hub?,Predicted,5.0
+What does it cost to use Amazon S3 Event Notifications?,Predicted,1.0
+What is the pricing structure of AWS Audit Manager?,Predicted,2.0
+I am an AWS Shield Advanced customer; will my price increase with this feature?,Predicted,1.0
+How does Redshift Multi-AZ compare to the existing Redshift Relocation feature?,Predicted,4.0
+Will using GuardDuty EKS Protection impact the performance or cost of running containers on Amazon EKS?,Predicted,2.0
+How do I get started with Amazon CloudWatch Application Signals?,Predicted,4.0
+Q: How does suspend and resume work for Lambda MicroVMs?,Predicted,4.0
+How am I charged for AWS Shield network security director?,Predicted,0.0
+How do I determine the right reservation size for my workload?,Predicted,4.0
+How much does GuardDuty cost?,Predicted,3.0
+Are there any prerequisites to creating backups of S3 buckets?,Predicted,0.0
+What is AWS Backup?,Predicted,1.0
+How does CloudFront Security Savings Bundle work with AWS Organizations/ Consolidated Billing?,Predicted,0.85
+What is AWS Transform MGN?,Predicted,5.0
+What are Amazon S3 Tables?,Predicted,2.0
+How can I secure my CloudTrail log files?,Predicted,1.0
+How can I monitor the DDoS events mitigated by AWS WAF application layer (L7) DDoS protection?,Predicted,4.0
+How do I differentiate between findings from Security Hub and Security Hub CSPM?,Predicted,2.0
+What is AWS Config?,Predicted,1.0
+What is a policy?,Predicted,3.0
+Do I need any special hardware to use MACsec?,Predicted,1.0
+How can I audit the use of keys in a custom key store?,Predicted,2.0
+How are these capabilities different from what Amazon S3 provides?,Predicted,1.0
+What is Amazon Bedrock AgentCore?,Predicted,5.0
+How does delegated administrator work?,Predicted,2.0
+How do I use AWS DataSync with Amazon EFS file system resource policies?,Predicted,3.0
+How are AWS Config and AWS Config rules related to Security Hub CSPM?,Predicted,1.0
+Can I copy VMware backups to another AWS Region?,Predicted,1.0
+What is the AWS Key Management Service (KMS)?,Predicted,5.0
+Is AWS WAF HIPAA eligible?,Predicted,1.0
+How can I get started with CloudWatch Lambda Insights?,Predicted,1.0
+How does AWS Glue relate to Sagemaker Data Processing?,Predicted,4.0
+How does Lake Formation relate to AWS Glue and the AWS Glue Data Catalog?,Predicted,1.0
+What data centers can I use during the transition period?,Predicted,0.0
+How does Amazon ECS support autoscaling of applications?,Predicted,1.0
+How do I enable Amazon S3 Replication metrics and events?,Predicted,4.0
+How do I back up and restore my Amazon Redshift data using AWS Backup?,Predicted,1.0
+How can I get started with CloudWatch Container Insights?,Predicted,1.0
+How can I get started?,Predicted,1.0
+How does Amazon Redshift Serverless work with other AWS services?,Predicted,5.0
+How can I access an AWS account that was created in my organization?,Predicted,1.0
+How do I manage a connection to data sources in AWS Glue?,Predicted,4.0
+How can I monitor my Schema Registry usage?,Predicted,2.0
+How can I see if my AWS WAF rules are working?,Predicted,1.0
+How can I see if my rules are working?,Predicted,0.7
+What is AWS Glue DataBrew?,Predicted,1.0
+What are the AWS DRS service level agreement (SLA) terms?,Predicted,1.0
+Where is my object and object metadata stored in AWS Local Zones?,Predicted,0.0
+What is Amazon Bedrock in SageMaker Unified Studio?,Predicted,1.0
+Does S3 Access Grants work with KMS?,Predicted,0.0
+Why is AWS Elastic Disaster Recovery shortened to “AWS DRS”?,Predicted,1.0
+What types of virtual interfaces (VIFs) are supported by AWS Direct Connect SiteLink?,Predicted,0.0
+What are S3 object tags?,Predicted,1.0
+Who has access to my project?,Predicted,1.0
+Can I be alerted that I need to re-import the key?,Predicted,0.0
+How will serverless applications benefit from Amazon RDS Proxy?,Predicted,1.0
+Can I use individual AWS services without using SageMaker?,Predicted,1.0
+How is Amazon ECS different from AWS Lambda?,Predicted,1.0
+How is my data encrypted in an S3 file system?,Predicted,3.0
+What is data protection in Amazon CloudWatch Logs?,Predicted,5.0
+How do I migrate my existing AWS KMS keys to use FIPS 140-3 Security Level 3 validated HSMs?,Predicted,0.0
+What AWS-native options do I have to transfer data into my file system?,Predicted,1.0
+When do I use AWS DataSync and when do I use AWS Transfer Family?,Predicted,5.0
+How do AWS Partners and AWS Managed Services work together?,Predicted,1.0
+What is AWS Lake Formation?,Predicted,4.0
+Will AWS Database Migration Service help me convert my Oracle PL/SQL and SQL Server T-SQL code to Amazon RDS for MySQL and Amazon RDS for PostgreSQL stored procedures?,Predicted,3.0
+Is the migration intrusive?,Predicted,1.0
+How does Amazon Bedrock integrate with other AWS services within Amazon SageMaker Unified Studio to create generative AI applications?,Predicted,4.0
+Do I need to be fully migrated on the date my data center is consolidated?,Predicted,0.0
+How do I get started with AWS Database Migration Service?,Predicted,5.0
+What is CloudWatch Container Insights?,AllRepositories,4.0
+Can I train a model and deploy it on Amazon Bedrock?,AllRepositories,0.0
+What are the benefits of a default VPC?,AllRepositories,2.0
+How does Amazon ECS support service-to-service communication?,AllRepositories,2.0
+Why is an AWS Direct Connect gateway necessary?,AllRepositories,0.0
+How do I get started with Amazon VPC?,AllRepositories,2.0
+Can I use the Route Analyzer on my existing Transit Gateways?,AllRepositories,0.0
+Can I connect VPCs belonging to different accounts using Private Link (VPC Endpoints) and be guaranteed that all traffic is encrypted when using VPC Encryption Controls?,AllRepositories,0.0
+Does AWS Backup support compression for VMware backups?,AllRepositories,0.0
+How do I perform a network security analysis?,AllRepositories,2.0
+What existing AWS services can I use within SageMaker?,AllRepositories,3.0
+Can I apply additional security configuration and isolation frameworks to my container instances?,AllRepositories,3.0
+What are Route 53 Resolver endpoints?,AllRepositories,0.0
+Which AWS partners are supporting AWS Transit Gateway Network Manager?,AllRepositories,1.0
+"Since VPC endpoints have their own DNS names, do I need to update my code to start using VPC endpoints?",AllRepositories,1.0
+Can I use AWS CloudTrail logs to roll back changes to my hosted zones?,AllRepositories,1.0
+What is the expected performance of AWS Network Firewall with multiple endpoints?,AllRepositories,2.0
+When should I use Amazon RDS zero-ETL integration with Amazon Redshift?,AllRepositories,2.0
+How should I secure my origins with CloudFront?,AllRepositories,5.0
+What is the recommended best practice when moving file data to and from on-premises servers?,AllRepositories,0.0
+When should I use Amazon Bedrock's capabilities in Amazon SageMaker Unified Studio?,AllRepositories,0.0
+I received a notice that Direct Connect is performing maintenance at a time that impacts our business. How do I prepare for maintenance on my Direct Connect connection?,AllRepositories,2.0
+What is AWS Control Tower and who should use this service?,AllRepositories,4.0
+Will there be any business disruption during the migration process?,AllRepositories,4.0
+Who oversees data governance?,AllRepositories,0.0
+Who should use CloudFront origin mutual TLS authentication?,AllRepositories,0.0
+What security and compliance standards does Amazon Bedrock support?,AllRepositories,0.0
+"If I have multiple connections to the same Direct Connect location, will all my connections go down during maintenance?",AllRepositories,0.0
+What are the key benefits of the Extended Threat Detection capabilities?,AllRepositories,2.6
+What are the key benefits of Security Hub?,AllRepositories,0.7
+What does it cost to use Amazon S3 Event Notifications?,AllRepositories,1.0
+What is the pricing structure of AWS Audit Manager?,AllRepositories,0.0
+I am an AWS Shield Advanced customer; will my price increase with this feature?,AllRepositories,0.0
+How does Redshift Multi-AZ compare to the existing Redshift Relocation feature?,AllRepositories,2.0
+Will using GuardDuty EKS Protection impact the performance or cost of running containers on Amazon EKS?,AllRepositories,0.0
+How do I get started with Amazon CloudWatch Application Signals?,AllRepositories,2.0
+Q: How does suspend and resume work for Lambda MicroVMs?,AllRepositories,0.0
+How am I charged for AWS Shield network security director?,AllRepositories,0.0
+How do I determine the right reservation size for my workload?,AllRepositories,3.0
+How much does GuardDuty cost?,AllRepositories,2.0
+Are there any prerequisites to creating backups of S3 buckets?,AllRepositories,0.0
+What is AWS Backup?,AllRepositories,4.0
+How does CloudFront Security Savings Bundle work with AWS Organizations/ Consolidated Billing?,AllRepositories,0.0
+What is AWS Transform MGN?,AllRepositories,0.0
+What are Amazon S3 Tables?,AllRepositories,0.0
+How can I secure my CloudTrail log files?,AllRepositories,4.0
+How can I monitor the DDoS events mitigated by AWS WAF application layer (L7) DDoS protection?,AllRepositories,4.5
+How do I differentiate between findings from Security Hub and Security Hub CSPM?,AllRepositories,2.0
+What is AWS Config?,AllRepositories,4.0
+What is a policy?,AllRepositories,2.0
+Do I need any special hardware to use MACsec?,AllRepositories,0.0
+How can I audit the use of keys in a custom key store?,AllRepositories,0.0
+How are these capabilities different from what Amazon S3 provides?,AllRepositories,3.0
+What is Amazon Bedrock AgentCore?,AllRepositories,0.0
+How does delegated administrator work?,AllRepositories,3.0
+How do I use AWS DataSync with Amazon EFS file system resource policies?,AllRepositories,0.0
+How are AWS Config and AWS Config rules related to Security Hub CSPM?,AllRepositories,4.0
+Can I copy VMware backups to another AWS Region?,AllRepositories,0.0
+What is the AWS Key Management Service (KMS)?,AllRepositories,1.0
+Is AWS WAF HIPAA eligible?,AllRepositories,0.0
+How can I get started with CloudWatch Lambda Insights?,AllRepositories,0.94
+How does AWS Glue relate to Sagemaker Data Processing?,AllRepositories,0.0
+How does Lake Formation relate to AWS Glue and the AWS Glue Data Catalog?,AllRepositories,0.0
+What data centers can I use during the transition period?,AllRepositories,0.0
+How does Amazon ECS support autoscaling of applications?,AllRepositories,4.0
+How do I enable Amazon S3 Replication metrics and events?,AllRepositories,0.0
+How do I back up and restore my Amazon Redshift data using AWS Backup?,AllRepositories,0.68
+How can I get started with CloudWatch Container Insights?,AllRepositories,0.0
+How can I get started?,AllRepositories,2.0
+How does Amazon Redshift Serverless work with other AWS services?,AllRepositories,3.0
+How can I access an AWS account that was created in my organization?,AllRepositories,0.7
+How do I manage a connection to data sources in AWS Glue?,AllRepositories,0.0
+How can I monitor my Schema Registry usage?,AllRepositories,0.0
+How can I see if my AWS WAF rules are working?,AllRepositories,0.7
+How can I see if my rules are working?,AllRepositories,2.0
+What is AWS Glue DataBrew?,AllRepositories,0.0
+What are the AWS DRS service level agreement (SLA) terms?,AllRepositories,1.0
+Where is my object and object metadata stored in AWS Local Zones?,AllRepositories,0.0
+What is Amazon Bedrock in SageMaker Unified Studio?,AllRepositories,0.0
+Does S3 Access Grants work with KMS?,AllRepositories,0.0
+Why is AWS Elastic Disaster Recovery shortened to “AWS DRS”?,AllRepositories,2.0
+What types of virtual interfaces (VIFs) are supported by AWS Direct Connect SiteLink?,AllRepositories,0.0
+What are S3 object tags?,AllRepositories,3.0
+Who has access to my project?,AllRepositories,0.0
+Can I be alerted that I need to re-import the key?,AllRepositories,0.0
+How will serverless applications benefit from Amazon RDS Proxy?,AllRepositories,4.0
+Can I use individual AWS services without using SageMaker?,AllRepositories,0.5
+How is Amazon ECS different from AWS Lambda?,AllRepositories,5.0
+How is my data encrypted in an S3 file system?,AllRepositories,2.0
+What is data protection in Amazon CloudWatch Logs?,AllRepositories,2.0
+How do I migrate my existing AWS KMS keys to use FIPS 140-3 Security Level 3 validated HSMs?,AllRepositories,0.0
+What AWS-native options do I have to transfer data into my file system?,AllRepositories,2.0
+When do I use AWS DataSync and when do I use AWS Transfer Family?,AllRepositories,1.0
+How do AWS Partners and AWS Managed Services work together?,AllRepositories,3.0
+What is AWS Lake Formation?,AllRepositories,0.0
+Will AWS Database Migration Service help me convert my Oracle PL/SQL and SQL Server T-SQL code to Amazon RDS for MySQL and Amazon RDS for PostgreSQL stored procedures?,AllRepositories,0.0
+Is the migration intrusive?,AllRepositories,2.0
+How does Amazon Bedrock integrate with other AWS services within Amazon SageMaker Unified Studio to create generative AI applications?,AllRepositories,0.0
+Do I need to be fully migrated on the date my data center is consolidated?,AllRepositories,0.0
+How do I get started with AWS Database Migration Service?,AllRepositories,0.0

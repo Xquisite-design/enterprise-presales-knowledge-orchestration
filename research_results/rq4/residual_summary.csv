@@ -1,0 +1,88 @@
+Predictor,Predictor Category,Knowledge Gap Category,Adjusted Standardized Residual,Direction
+Question Type,Commercial / Pricing,Public Documentation | Commercial Model | Pricing Template | SME,27.059,Over-represented
+Presales Category,Security & Compliance,Public Documentation | Governance Framework | Risk Register | SME,17.647,Over-represented
+Question Type,Governance / Security,Public Documentation | Governance Framework | Risk Register | SME,15.227,Over-represented
+Question Type,Architecture,Public Documentation | Architecture Blueprint | Methodology | SME,15.163,Over-represented
+Presales Category,Solution Architecture,Public Documentation | Governance Framework | Risk Register | SME,-14.292,Under-represented
+Question Type,Commercial / Pricing,Public Documentation | Architecture Blueprint | Methodology | SME,-13.465,Under-represented
+Question Intent,Estimate commercial impact,Public Documentation | Commercial Model | Pricing Template | SME,13.078,Over-represented
+Presales Category,Security & Compliance,Public Documentation | Architecture Blueprint | Methodology | SME,-12.944,Under-represented
+Presales Category,Cost Optimization,Public Documentation | Commercial Model | Pricing Template | SME,12.354,Over-represented
+Presales Category,Solution Architecture,Public Documentation | Architecture Blueprint | Methodology | SME,12.14,Over-represented
+Question Type,Architecture,Public Documentation | Governance Framework | Risk Register | SME,-11.444,Under-represented
+Presales Category,Data Platform,Public Documentation | Governance Framework | Risk Register | SME,11.431,Over-represented
+Question Intent,Understand capability / terminology,Public Documentation,10.066,Over-represented
+Question Type,Architecture,Public Documentation | Commercial Model | Pricing Template | SME,-9.64,Under-represented
+Question Type,Implementation,Public Documentation | Governance Framework | Risk Register | SME,8.638,Over-represented
+Business Capability,Hybrid connectivity and network foundation,Public Documentation | Governance Framework | Risk Register | SME,-8.094,Under-represented
+Business Capability,Hybrid connectivity and network foundation,Public Documentation | Architecture Blueprint | Methodology | SME,7.707,Over-represented
+Question Type,Commercial / Pricing,Public Documentation | Governance Framework | Risk Register | SME,-7.598,Under-represented
+Business Capability,Financial governance / FinOps,Public Documentation | Commercial Model | Pricing Template | SME,7.281,Over-represented
+Question Type,Governance / Security,Public Documentation | Architecture Blueprint | Methodology | SME,-7.241,Under-represented
+Presales Category,Migration Assessment,Public Documentation | Architecture Blueprint | Methodology | SME,7.058,Over-represented
+Question Complexity,High,Public Documentation | Governance Framework | Risk Register | SME,7.017,Over-represented
+Question Complexity,Medium,Public Documentation | Governance Framework | Risk Register | SME,-6.026,Under-represented
+Presales Category,Cost Optimization,Public Documentation | Architecture Blueprint | Methodology | SME,-6.009,Under-represented
+Presales Category,Data Platform,Public Documentation | Architecture Blueprint | Methodology | SME,-6.003,Under-represented
+Presales Category,Migration Assessment,Public Documentation | Governance Framework | Risk Register | SME,-5.701,Under-represented
+Question Intent,Estimate commercial impact,Public Documentation | Architecture Blueprint | Methodology | SME,-5.614,Under-represented
+Question Type,Best Practice,Public Documentation | Commercial Model | Pricing Template | SME,-5.455,Under-represented
+Question Type,Informational,Public Documentation | Governance Framework | Risk Register | SME,5.452,Over-represented
+Question Type,Governance / Security,Public Documentation | Commercial Model | Pricing Template | SME,-5.402,Under-represented
+Question Intent,Understand capability / terminology,Public Documentation | Architecture Blueprint | Methodology | SME,-5.379,Under-represented
+Presales Category,Vendor Evaluation,Public Documentation,5.096,Over-represented
+Question Intent,Determine implementation approach,Public Documentation,-4.984,Under-represented
+Business Capability,"Risk, compliance and identity control",Public Documentation | Governance Framework | Risk Register | SME,4.943,Over-represented
+Presales Category,Resilience / DR,Public Documentation | Architecture Blueprint | Methodology | SME,4.806,Over-represented
+Presales Category,AI / GenAI,Public Documentation | Governance Framework | Risk Register | SME,4.65,Over-represented
+Question Type,Best Practice,Public Documentation | Architecture Blueprint | Methodology | SME,4.563,Over-represented
+Presales Category,Operations,Public Documentation,4.555,Over-represented
+Question Type,Informational,Public Documentation | Architecture Blueprint | Methodology | SME,-4.054,Under-represented
+Business Capability,AI-enabled business capability,Public Documentation | Governance Framework | Risk Register | SME,3.959,Over-represented
+Business Capability,IT operations and observability,Public Documentation,3.943,Over-represented
+Question Type,Migration,Public Documentation | Architecture Blueprint | Methodology | SME,3.81,Over-represented
+Business Capability,Enterprise data and analytics,Public Documentation | Governance Framework | Risk Register | SME,3.806,Over-represented
+Business Capability,Digital platform delivery,Public Documentation | Architecture Blueprint | Methodology | SME,-3.802,Under-represented
+Question Type,Informational,Public Documentation | Commercial Model | Pricing Template | SME,-3.788,Under-represented
+Question Complexity,Medium,Public Documentation | Architecture Blueprint | Methodology | SME,3.747,Over-represented
+Question Intent,Determine implementation approach,Public Documentation | Governance Framework | Risk Register | SME,3.717,Over-represented
+Business Capability,Cloud migration and modernization,Public Documentation | Architecture Blueprint | Methodology | SME,3.678,Over-represented
+Question Type,Implementation,Public Documentation | Architecture Blueprint | Methodology | SME,-3.648,Under-represented
+Question Intent,Request presales guidance,Public Documentation | Architecture Blueprint | Methodology | SME,3.514,Over-represented
+Presales Category,AI / GenAI,Public Documentation | Architecture Blueprint | Methodology | SME,-3.457,Under-represented
+Question Intent,Request presales guidance,Public Documentation | Commercial Model | Pricing Template | SME,-3.414,Under-represented
+Question Intent,Assess business rationale,Public Documentation | Commercial Model | Pricing Template | SME,3.411,Over-represented
+Business Capability,AI-enabled business capability,Public Documentation | Architecture Blueprint | Methodology | SME,-3.406,Under-represented
+Presales Category,Cost Optimization,Public Documentation | Governance Framework | Risk Register | SME,-3.391,Under-represented
+Business Capability,Financial governance / FinOps,Public Documentation | Architecture Blueprint | Methodology | SME,-3.33,Under-represented
+Question Type,Informational,Public Documentation,3.303,Over-represented
+Business Capability,Cloud migration and modernization,Public Documentation | Governance Framework | Risk Register | SME,-3.303,Under-represented
+Business Capability,Enterprise data and analytics,Public Documentation | Architecture Blueprint | Methodology | SME,-3.299,Under-represented
+Business Capability,Digital platform delivery,Public Documentation | Commercial Model | Pricing Template | SME,3.236,Over-represented
+Question Intent,Estimate commercial impact,Public Documentation | Governance Framework | Risk Register | SME,-3.168,Under-represented
+Question Type,Implementation,Public Documentation | Commercial Model | Pricing Template | SME,-3.151,Under-represented
+Presales Category,Data Platform,Public Documentation | Commercial Model | Pricing Template | SME,-3.115,Under-represented
+Question Type,Migration,Public Documentation | Commercial Model | Pricing Template | SME,-2.928,Under-represented
+Business Capability,Business continuity and resilience,Public Documentation | Commercial Model | Pricing Template | SME,2.917,Over-represented
+Question Complexity,Low,Public Documentation | Governance Framework | Risk Register | SME,-2.909,Under-represented
+Business Capability,Business continuity and resilience,Public Documentation | Governance Framework | Risk Register | SME,-2.882,Under-represented
+Presales Category,Governance & Operating Model,Public Documentation | Governance Framework | Risk Register | SME,-2.882,Under-represented
+Question Complexity,High,Public Documentation | Architecture Blueprint | Methodology | SME,-2.864,Under-represented
+Business Capability,Hybrid connectivity and network foundation,Public Documentation | Commercial Model | Pricing Template | SME,-2.781,Under-represented
+Question Complexity,Low,Public Documentation,2.591,Over-represented
+Presales Category,Governance & Operating Model,Public Documentation,2.586,Over-represented
+Question Intent,Determine implementation approach,Public Documentation | Architecture Blueprint | Methodology | SME,2.574,Over-represented
+Question Intent,Determine implementation approach,Public Documentation | Commercial Model | Pricing Template | SME,-2.56,Under-represented
+Question Complexity,High,Public Documentation,-2.551,Under-represented
+Question Intent,Assess business rationale,Public Documentation,-2.451,Under-represented
+Presales Category,Solution Architecture,Public Documentation | Commercial Model | Pricing Template | SME,-2.352,Under-represented
+Business Capability,"Risk, compliance and identity control",Public Documentation | Architecture Blueprint | Methodology | SME,-2.341,Under-represented
+Presales Category,Migration Assessment,Public Documentation,-2.335,Under-represented
+Presales Category,Resilience / DR,Public Documentation | Governance Framework | Risk Register | SME,-2.279,Under-represented
+Question Intent,Determine timing / applicability,Public Documentation,-2.277,Under-represented
+Question Intent,Estimate commercial impact,Public Documentation,-2.233,Under-represented
+Business Capability,AI-enabled business capability,Public Documentation,2.189,Over-represented
+Presales Category,Vendor Evaluation,Public Documentation | Architecture Blueprint | Methodology | SME,-2.056,Under-represented
+Question Type,Architecture,Public Documentation,2.002,Over-represented
+Question Complexity,Low,Public Documentation | Commercial Model | Pricing Template | SME,1.998,Over-represented
+Presales Category,Resilience / DR,Public Documentation | Commercial Model | Pricing Template | SME,-1.994,Under-represented

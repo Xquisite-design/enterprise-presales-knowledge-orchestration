@@ -1,0 +1,85 @@
+Feature,Importance
+Presales Category_Security & Compliance,0.18884277
+Question Type_Commercial / Pricing,0.1603094
+Presales Category_Data Platform,0.141966
+Estimated RFP Relevance (1-5),0.060972147
+Presales Category_Cost Optimization,0.034569107
+Vendor_Databricks,0.03400482
+Question Intent_Understand capability / terminology,0.032150704
+Document Type_FAQ,0.02459554
+Knowledge Asset Category_Security Guide,0.023680393
+Presales Category_Solution Architecture,0.022945186
+Source Website_aws.amazon.com,0.020784333
+Knowledge Asset Category_Migration Guide,0.020545261
+Presales Category_Operations,0.018497562
+Knowledge Asset Category_Landing Zone,0.017300785
+Knowledge Asset Category_Governance Guide,0.016768327
+Question Intent_Request presales guidance,0.015702434
+Technology Domain_Cloud Architecture,0.01120399
+Presales Category_Resilience / DR,0.010948578
+Knowledge Asset Category_Well Architected,0.00849505
+Question Type_Informational,0.0077553056
+Question Type_Best Practice,0.0071776304
+Technology Domain_Security / Governance,0.006824604
+Knowledge Asset Category_Operations Guide,0.006749161
+Presales Category_Governance & Operating Model,0.0065065073
+Question Type_Governance / Security,0.0060259965
+Number of Technologies Mentioned,0.0060248664
+Presales Category_Migration Assessment,0.0059951115
+Question Length,0.005882156
+Technology Domain_Resilience / DR,0.0058306665
+Question Intent_Determine implementation approach,0.005700722
+Technology Domain_Migration / Modernization,0.0050078896
+Question Complexity_Low,0.004906366
+Technology Domain_GenAI / AI,0.0048746364
+Technology Domain_Networking,0.004748743
+Knowledge Asset Category_Pricing Guidance,0.0044703544
+Business Capability_Enterprise data and analytics,0.004399415
+Question Complexity_Medium,0.004368041
+Vendor_IBM,0.004203707
+Question Intent_Determine timing / applicability,0.004173141
+Technology Domain_Cost Optimization,0.004164807
+Question Intent_Evaluate options / fit,0.0032717127
+Question Intent_Estimate commercial impact,0.003154005
+Vendor_Cisco,0.0029574067
+Technology Domain_DevOps / Platform Engineering,0.0024998072
+Question Type_Implementation,0.0023365633
+Question Type_Migration,0.0023242007
+Document Type_Official Blog / Guide,0.0018493485
+Document Type_Security Guide,0.00153468
+Vendor_Google Cloud,0.0
+Vendor_Microsoft,0.0
+Vendor_Snowflake,0.0
+Source Website_cloud.google.com,0.0
+Source Website_www.snowflake.com,0.0
+Source Website_learn.microsoft.com,0.0
+Source Website_www.cisco.com,0.0
+Source Website_www.databricks.com,0.0
+Source Website_cloud.ibm.com,0.0
+Vendor_Salesforce,0.0
+Cloud Platform_Databricks,0.0
+Cloud Platform_Google Cloud,0.0
+Knowledge Asset Category_Product Documentation,0.0
+Knowledge Asset Category_Reference Architecture,0.0
+Technology Domain_Operations / Monitoring,0.0
+Cloud Platform_Cisco / Hybrid Network,0.0
+Cloud Platform_Microsoft Azure / Microsoft Cloud,0.0
+Cloud Platform_IBM Cloud,0.0
+Cloud Platform_Snowflake,0.0
+Cloud Platform_Salesforce,0.0
+Business Capability_Business continuity and resilience,0.0
+Presales Category_Vendor Evaluation,0.0
+Business Capability_Cloud migration and modernization,0.0
+Business Capability_Cloud foundation and workload architecture,0.0
+Business Capability_IT operations and observability,0.0
+Business Capability_Hybrid connectivity and network foundation,0.0
+"Business Capability_Risk, compliance and identity control",0.0
+Business Capability_Digital platform delivery,0.0
+Business Capability_Financial governance / FinOps,0.0
+Document Type_Governance Guide,0.0
+Document Type_Product Documentation,0.0
+Document Type_Migration Guide,0.0
+Document Type_Reference Architecture,0.0
+Document Type_Well Architected,0.0
+Document Type_Whitepaper,0.0
+Answer Confidence_Medium,0.0

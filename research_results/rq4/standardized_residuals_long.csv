@@ -1,0 +1,41 @@
+Business_Capability,Knowledge_Gap_Category,Standardized_Residual
+AI-enabled business capability,Public Documentation,1.882061833334194
+AI-enabled business capability,Public Documentation | Architecture Blueprint | Methodology | SME,-2.358130121655844
+AI-enabled business capability,Public Documentation | Commercial Model | Pricing Template | SME,-1.6537113944847244
+AI-enabled business capability,Public Documentation | Governance Framework | Risk Register | SME,3.302435414140636
+Business continuity and resilience,Public Documentation,-1.2994554532133238
+Business continuity and resilience,Public Documentation | Architecture Blueprint | Methodology | SME,0.8915663244811939
+Business continuity and resilience,Public Documentation | Commercial Model | Pricing Template | SME,2.6125639123432816
+Business continuity and resilience,Public Documentation | Governance Framework | Risk Register | SME,-2.516611478423583
+Cloud foundation and workload architecture,Public Documentation,1.4924492857796037
+Cloud foundation and workload architecture,Public Documentation | Architecture Blueprint | Methodology | SME,0.99639251980732
+Cloud foundation and workload architecture,Public Documentation | Commercial Model | Pricing Template | SME,-1.6492422502470643
+Cloud foundation and workload architecture,Public Documentation | Governance Framework | Risk Register | SME,-1.2937659793628542
+Cloud migration and modernization,Public Documentation,-1.720148579201103
+Cloud migration and modernization,Public Documentation | Architecture Blueprint | Methodology | SME,2.651539656337371
+Cloud migration and modernization,Public Documentation | Commercial Model | Pricing Template | SME,0.532063911605723
+Cloud migration and modernization,Public Documentation | Governance Framework | Risk Register | SME,-2.869378562220979
+Digital platform delivery,Public Documentation,0.13522789667819532
+Digital platform delivery,Public Documentation | Architecture Blueprint | Methodology | SME,-2.7472645731143026
+Digital platform delivery,Public Documentation | Commercial Model | Pricing Template | SME,2.890218217460027
+Digital platform delivery,Public Documentation | Governance Framework | Risk Register | SME,1.3284685688840923
+Enterprise data and analytics,Public Documentation,-0.3784658524966925
+Enterprise data and analytics,Public Documentation | Architecture Blueprint | Methodology | SME,-2.326619688584823
+Enterprise data and analytics,Public Documentation | Commercial Model | Pricing Template | SME,0.5786714794376435
+Enterprise data and analytics,Public Documentation | Governance Framework | Risk Register | SME,3.2343997822423955
+Financial governance / FinOps,Public Documentation,-0.7635916708454648
+Financial governance / FinOps,Public Documentation | Architecture Blueprint | Methodology | SME,-2.4365275838099323
+Financial governance / FinOps,Public Documentation | Commercial Model | Pricing Template | SME,6.585466653223898
+Financial governance / FinOps,Public Documentation | Governance Framework | Risk Register | SME,-1.6566364853052238
+Hybrid connectivity and network foundation,Public Documentation,1.10788499950413
+Hybrid connectivity and network foundation,Public Documentation | Architecture Blueprint | Methodology | SME,4.985264332768768
+Hybrid connectivity and network foundation,Public Documentation | Commercial Model | Pricing Template | SME,-2.223489905541616
+Hybrid connectivity and network foundation,Public Documentation | Governance Framework | Risk Register | SME,-6.308053042007338
+IT operations and observability,Public Documentation,3.602751358558924
+IT operations and observability,Public Documentation | Architecture Blueprint | Methodology | SME,-1.1704699910719627
+IT operations and observability,Public Documentation | Commercial Model | Pricing Template | SME,-0.7141428428542851
+IT operations and observability,Public Documentation | Governance Framework | Risk Register | SME,-0.7958224257542215
+"Risk, compliance and identity control",Public Documentation,-1.2607528373535304
+"Risk, compliance and identity control",Public Documentation | Architecture Blueprint | Methodology | SME,-1.318177241829001
+"Risk, compliance and identity control",Public Documentation | Commercial Model | Pricing Template | SME,-0.3444233600968322
+"Risk, compliance and identity control",Public Documentation | Governance Framework | Risk Register | SME,3.352977205462464

@@ -1,0 +1,53 @@
+File,Type,Rows,Columns,Description,Status
+research_results/data/rq1_main_dataset.csv,CSV,900,31,RQ1 master analysis dataset,Saved
+research_results/rq1/model_comparison.csv,CSV,6,7,RQ1 model performance comparison,Saved
+research_results/rq1/cross_validation_results.csv,CSV,6,6,RQ1 cross-validation results,Saved
+research_results/rq1/feature_importance_all.csv,CSV,84,2,RQ1 complete feature importance,Saved
+research_results/rq1/feature_importance_summary.csv,CSV,23,2,RQ1 summarized feature importance,Saved
+research_results/rq1/predictor_association_matrix.csv,CSV,5,5,RQ1 predictor association matrix,Saved
+research_results/rq1/vif.csv,CSV,32,2,RQ1 variance inflation factors,Saved
+research_results/rq1/high_vif.csv,CSV,19,2,RQ1 high-VIF predictors,Saved
+research_results/rq1/cleaning_log.csv,CSV,29,3,RQ1 data cleaning log,Saved
+research_results/rq1/RQ1_models.pkl,Pickle,,,RQ1 trained model objects,Saved
+research_results/data/rq2_evaluation_dataset.csv,CSV,105,31,RQ2 routing evaluation dataset,Saved
+research_results/rq2/model_comparison.csv,CSV,3,4,RQ2 model comparison,Saved
+research_results/rq2/routing_results.csv,CSV,7,4,RQ2 repository routing results,Saved
+research_results/rq2/routing_accuracy.csv,CSV,4,2,RQ2 routing accuracy,Saved
+research_results/rq2/intent_repository_mapping.csv,CSV,7,2,RQ2 question-intent to repository mapping,Saved
+research_results/rq2/routing_predictions.csv,CSV,180,87,RQ2 question-level routing predictions,Saved
+research_results/rq2/routing_business_impact.csv,CSV,180,88,RQ2 routing business impact analysis,Saved
+research_results/rq2/evaluation_dataset.csv,CSV,105,31,RQ2 evaluation dataset,Saved
+research_results/rq2/RQ2_models.pkl,Pickle,,,RQ2 trained routing models and repository mapping,Saved
+research_results/data/rq3_experiment_dataset.csv,CSV,100,10,RQ3 response-generation experiment,Saved
+research_results/rq3/anova_data.csv,CSV,400,3,RQ3 repeated-measures ANOVA data,Saved
+research_results/rq3/method_rqi_ranking.csv,CSV,4,2,RQ3 mean RQI ranking by retrieval strategy,Saved
+research_results/rq3/rqi_descriptive_statistics.csv,CSV,4,10,RQ3 RQI descriptive statistics,Saved
+research_results/rq3/RQ3_scores.pkl,Pickle,,,RQ3 individual RQI scores by strategy,Saved
+research_results/rq3/RQ3_experiment_results.pkl,Pickle,,,RQ3 experiment result objects,Saved
+research_results/data/rq4_analysis_dataset.csv,CSV,900,31,RQ4 knowledge-gap analysis dataset,Saved
+research_results/rq4/chi_square_results.csv,CSV,5,5,RQ4 chi-square association tests,Saved
+research_results/rq4/chi_square_assumptions.csv,CSV,5,8,RQ4 chi-square expected-frequency diagnostics,Saved
+research_results/rq4/standardized_residuals_long.csv,CSV,40,3,RQ4 standardized residuals,Saved
+research_results/rq4/residual_summary.csv,CSV,87,5,RQ4 residual summary,Saved
+research_results/rq4/all_residual_cells.csv,CSV,148,9,RQ4 complete residual cell analysis,Saved
+research_results/rq4/fdr_significant_residuals.csv,CSV,82,9,RQ4 FDR-significant residuals,Saved
+research_results/rq4/top10_residuals.csv,CSV,10,9,RQ4 top standardized residuals,Saved
+research_results/rq4/knowledge_gap_prevalence.csv,CSV,4,3,RQ4 knowledge-gap prevalence,Saved
+research_results/rq4/frequent_itemsets.csv,CSV,223,4,RQ4 Apriori frequent itemsets,Saved
+research_results/rq4/all_association_rules.csv,CSV,1206,14,RQ4 all Apriori association rules,Saved
+research_results/rq4/knowledge_gap_rules.csv,CSV,97,16,RQ4 rules specifically predicting knowledge gaps,Saved
+research_results/rq4/readable_rules.csv,CSV,97,9,RQ4 human-readable association rules,Saved
+research_results/rq4/rules_significance.csv,CSV,57,20,RQ4 association-rule significance analysis,Saved
+research_results/rq4/significant_rules.csv,CSV,57,20,RQ4 statistically significant rules,Saved
+research_results/rq4/rule_summary.csv,CSV,3,4,RQ4 knowledge-gap rule summary,Saved
+research_results/rq4/pareto_analysis.csv,CSV,4,5,RQ4 Pareto knowledge-gap analysis,Saved
+research_results/rq4/pareto_reporting.csv,CSV,4,4,RQ4 Pareto reporting table,Saved
+research_results/rq4/monte_carlo_results.csv,CSV,5,12,RQ4 Monte Carlo robustness validation,Saved
+research_results/rq4/monte_carlo_comparison.csv,CSV,2,4,RQ4 Pearson versus Monte Carlo comparison,Saved
+research_results/rq4/evidence17.csv,CSV,5,16,RQ4 integrated evidence,Saved
+research_results/rq4/core_evidence17.csv,CSV,5,10,RQ4 core evidence,Saved
+research_results/rq4/rule_summary17.csv,CSV,3,5,RQ4 association-rule summary,Saved
+research_results/rq4/pareto_evidence17.csv,CSV,4,4,RQ4 Pareto evidence,Saved
+research_results/rq4/final_rq4_evidence.csv,CSV,5,10,RQ4 final statistical evidence,Saved
+research_results/rq4/RQ4_complete_bundle.pkl,Pickle,,,Complete RQ4 analytical bundle,Saved
+research_results/COMPLETE_RQ1_RQ4_CHECKPOINT.pkl,Pickle,,,Safe consolidated RQ1-RQ4 analytical checkpoint,Saved

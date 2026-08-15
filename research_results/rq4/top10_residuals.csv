@@ -1,0 +1,11 @@
+Predictor,Predictor Category,Knowledge Gap Category,Adjusted Standardized Residual,Raw p-value,FDR q-value,FDR Significant,Direction,Absolute Residual
+Question Type,Commercial / Pricing,Public Documentation | Commercial Model | Pricing Template | SME,27.05910551936553,2.9844879009368533e-161,4.4170420933865424e-159,True,Over-represented,27.05910551936553
+Presales Category,Security & Compliance,Public Documentation | Governance Framework | Risk Register | SME,17.647029115383333,1.0725173772984219e-69,7.936628592008321e-68,True,Over-represented,17.647029115383333
+Question Type,Governance / Security,Public Documentation | Governance Framework | Risk Register | SME,15.226526208094421,2.357912300977979e-52,1.1632367351491363e-50,True,Over-represented,15.226526208094421
+Question Type,Architecture,Public Documentation | Architecture Blueprint | Methodology | SME,15.16348144341699,6.1709692450860436e-52,2.283258620681836e-50,True,Over-represented,15.16348144341699
+Presales Category,Solution Architecture,Public Documentation | Governance Framework | Risk Register | SME,-14.291553060458169,2.4703808979940726e-46,7.312327458062454e-45,True,Under-represented,14.291553060458169
+Question Type,Commercial / Pricing,Public Documentation | Architecture Blueprint | Methodology | SME,-13.464618408709411,2.526199132474052e-41,6.231291193435995e-40,True,Under-represented,13.464618408709411
+Question Intent,Estimate commercial impact,Public Documentation | Commercial Model | Pricing Template | SME,13.07816508436519,4.3890758211245444e-39,9.279760307520465e-38,True,Over-represented,13.07816508436519
+Presales Category,Security & Compliance,Public Documentation | Architecture Blueprint | Methodology | SME,-12.943716144183691,2.549904115141508e-38,4.717322613011789e-37,True,Under-represented,12.943716144183691
+Presales Category,Cost Optimization,Public Documentation | Commercial Model | Pricing Template | SME,12.354246812436498,4.6206342337872326e-35,7.598376295561227e-34,True,Over-represented,12.354246812436498
+Presales Category,Solution Architecture,Public Documentation | Architecture Blueprint | Methodology | SME,12.139514930614883,6.5211471371242516e-34,9.651297762943892e-33,True,Over-represented,12.139514930614883

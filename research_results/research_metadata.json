@@ -1,0 +1,48 @@
+{
+  "study": "Enterprise Presales Knowledge Management",
+  "dataset_size": 900,
+  "research_questions": {
+    "RQ1": "Question characteristics and enterprise knowledge requirement",
+    "RQ2": "Enterprise knowledge repository routing",
+    "RQ3": "Impact of knowledge availability on Response Quality Index",
+    "RQ4": "Enterprise knowledge gaps and AI readiness"
+  },
+  "RQ1_methods": [
+    "Logistic Regression",
+    "Balanced Logistic Regression",
+    "Decision Tree",
+    "Random Forest",
+    "XGBoost",
+    "Cross-validation",
+    "Feature importance",
+    "VIF / multicollinearity analysis"
+  ],
+  "RQ2_methods": [
+    "Knowledge repository classification",
+    "XGBoost routing",
+    "Routing accuracy evaluation",
+    "Question intent to repository mapping"
+  ],
+  "RQ3_methods": [
+    "Controlled RAG experiment",
+    "Ground Truth Routing",
+    "Predicted Routing",
+    "Baseline GPT",
+    "All Repository Retrieval",
+    "Response Quality Index",
+    "Repeated-measures ANOVA"
+  ],
+  "RQ4_methods": [
+    "Chi-square tests",
+    "Cramer's V",
+    "Chi-square assumption diagnostics",
+    "Standardized residual analysis",
+    "Multiple-comparison adjustment",
+    "Knowledge-gap prevalence",
+    "Apriori frequent-itemset analysis",
+    "Association-rule mining",
+    "Rule pruning",
+    "Pareto analysis",
+    "Monte Carlo robustness validation"
+  ]
+}

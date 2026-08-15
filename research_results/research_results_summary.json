@@ -1,0 +1,49 @@
+{
+  "study": {
+    "name": "Enterprise Presales Knowledge Orchestration",
+    "dataset": "Curated Enterprise Presales Research Corpus",
+    "observations": 900,
+    "unit_of_analysis": "Annotated enterprise presales question-answer pair"
+  },
+  "RQ1": {
+    "focus": "Question characteristics and public versus enterprise knowledge requirement",
+    "primary_method": "Binary Logistic Regression",
+    "supporting_methods": [
+      "Classification models",
+      "Chi-square analysis",
+      "Feature importance"
+    ]
+  },
+  "RQ2": {
+    "focus": "Enterprise knowledge repository requirements",
+    "primary_method": "Knowledge routing / classification",
+    "supporting_methods": [
+      "Chi-square analysis",
+      "Association analysis",
+      "Classification performance evaluation"
+    ]
+  },
+  "RQ3": {
+    "focus": "Impact of knowledge availability on Response Quality Index",
+    "primary_method": "Controlled response-generation experiment",
+    "supporting_methods": [
+      "RQI component analysis",
+      "Repeated-measures ANOVA",
+      "Pairwise comparisons"
+    ]
+  },
+  "RQ4": {
+    "focus": "Knowledge gaps and AI-readiness prioritization",
+    "primary_method": "Chi-square association analysis",
+    "supporting_methods": [
+      "Cramer's V",
+      "Standardized residual analysis",
+      "Holm multiple-comparison adjustment",
+      "Knowledge-gap prevalence analysis",
+      "RFP relevance analysis",
+      "Apriori association-rule mining",
+      "Rule pruning",
+      "Monte Carlo robustness validation"
+    ]
+  }
+}

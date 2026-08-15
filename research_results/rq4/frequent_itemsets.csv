@@ -1,0 +1,224 @@
+support,itemsets,itemset_size,frequency
+0.16666666666666666,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,150
+0.12666666666666668,"frozenset({'Presales Category=Solution Architecture', 'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,114
+0.11888888888888889,"frozenset({'Business Capability=Risk, compliance and identity control', 'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",4,107
+0.11777777777777777,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",4,106
+0.11555555555555555,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Hybrid connectivity and network foundation'})",4,104
+0.11,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",4,99
+0.10444444444444445,"frozenset({'Question Type=Architecture', 'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,94
+0.1,"frozenset({'Question Type=Governance / Security', 'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",4,90
+0.09888888888888889,"frozenset({'Question Type=Governance / Security', 'Business Capability=Risk, compliance and identity control', 'Presales Category=Security & Compliance', 'Question Complexity=High'})",4,89
+0.09555555555555556,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Risk, compliance and identity control'})",4,86
+0.09222222222222222,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,83
+0.09,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Presales Category=Solution Architecture', 'Question Complexity=High'})",4,81
+0.08666666666666667,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",4,78
+0.08222222222222222,"frozenset({'Question Intent=Request presales guidance', 'Business Capability=Risk, compliance and identity control', 'Presales Category=Security & Compliance', 'Question Complexity=High'})",4,74
+0.08222222222222222,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,74
+0.0811111111111111,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Type=Architecture', 'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",4,73
+0.08,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Presales Category=Solution Architecture', 'Business Capability=Hybrid connectivity and network foundation'})",4,72
+0.08,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",4,72
+0.07777777777777778,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Presales Category=Solution Architecture', 'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",4,70
+0.07777777777777778,"frozenset({'Question Type=Governance / Security', 'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Business Capability=Risk, compliance and identity control'})",4,70
+0.07777777777777778,"frozenset({'Question Type=Governance / Security', 'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",4,70
+0.07111111111111111,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Hybrid connectivity and network foundation'})",4,64
+0.07,"frozenset({'Question Intent=Request presales guidance', 'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,63
+0.06777777777777778,"frozenset({'Question Type=Commercial / Pricing', 'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME', 'Question Complexity=High'})",4,61
+0.06777777777777778,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Type=Architecture', 'Presales Category=Solution Architecture', 'Question Complexity=Medium'})",4,61
+0.06555555555555556,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Hybrid connectivity and network foundation'})",4,59
+0.06444444444444444,"frozenset({'Question Intent=Request presales guidance', 'Business Capability=Risk, compliance and identity control', 'Presales Category=Solution Architecture', 'Question Complexity=High'})",4,58
+0.06444444444444444,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",4,58
+0.06222222222222222,"frozenset({'Question Type=Architecture', 'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,56
+0.06,"frozenset({'Presales Category=Solution Architecture', 'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,54
+0.057777777777777775,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Governance / Security', 'Presales Category=Security & Compliance', 'Question Complexity=High'})",4,52
+0.057777777777777775,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Question Intent=Determine implementation approach', 'Question Complexity=High'})",4,52
+0.056666666666666664,"frozenset({'Business Capability=Risk, compliance and identity control', 'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",4,51
+0.05555555555555555,"frozenset({'Question Intent=Request presales guidance', 'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",4,50
+0.05555555555555555,"frozenset({'Presales Category=Security & Compliance', 'Business Capability=Risk, compliance and identity control', 'Question Intent=Determine implementation approach', 'Question Complexity=High'})",4,50
+0.05444444444444444,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Business Capability=Risk, compliance and identity control'})",4,49
+0.05333333333333334,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",4,48
+0.052222222222222225,"frozenset({'Question Intent=Determine implementation approach', 'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",4,47
+0.05,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",4,45
+0.24555555555555555,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",3,221
+0.21222222222222223,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",3,191
+0.20333333333333334,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Question Complexity=High'})",3,183
+0.1922222222222222,"frozenset({'Business Capability=Risk, compliance and identity control', 'Presales Category=Security & Compliance', 'Question Complexity=High'})",3,173
+0.18444444444444444,"frozenset({'Presales Category=Solution Architecture', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",3,166
+0.18444444444444444,"frozenset({'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",3,166
+0.1711111111111111,"frozenset({'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",3,154
+0.16555555555555557,"frozenset({'Question Intent=Request presales guidance', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",3,149
+0.15555555555555556,"frozenset({'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",3,140
+0.15222222222222223,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Business Capability=Hybrid connectivity and network foundation'})",3,137
+0.1511111111111111,"frozenset({'Question Intent=Request presales guidance', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",3,136
+0.14444444444444443,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Presales Category=Solution Architecture'})",3,130
+0.13777777777777778,"frozenset({'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Hybrid connectivity and network foundation'})",3,124
+0.13666666666666666,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",3,123
+0.1322222222222222,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",3,119
+0.13111111111111112,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Hybrid connectivity and network foundation'})",3,118
+0.1288888888888889,"frozenset({'Question Type=Architecture', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",3,116
+0.12666666666666668,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Risk, compliance and identity control'})",3,114
+0.12666666666666668,"frozenset({'Question Type=Governance / Security', 'Presales Category=Security & Compliance', 'Question Complexity=High'})",3,114
+0.12333333333333334,"frozenset({'Question Type=Commercial / Pricing', 'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME', 'Question Complexity=High'})",3,111
+0.12222222222222222,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Solution Architecture', 'Question Complexity=High'})",3,110
+0.12111111111111111,"frozenset({'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",3,109
+0.11888888888888889,"frozenset({'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Business Capability=Risk, compliance and identity control'})",3,107
+0.11777777777777777,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Business Capability=Risk, compliance and identity control'})",3,106
+0.10888888888888888,"frozenset({'Presales Category=Solution Architecture', 'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",3,98
+0.10888888888888888,"frozenset({'Business Capability=Risk, compliance and identity control', 'Question Intent=Determine implementation approach', 'Question Complexity=High'})",3,98
+0.10444444444444445,"frozenset({'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Risk, compliance and identity control'})",3,94
+0.10333333333333333,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Question Complexity=High'})",3,93
+0.10222222222222223,"frozenset({'Question Type=Architecture', 'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",3,92
+0.10222222222222223,"frozenset({'Question Type=Governance / Security', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",3,92
+0.1,"frozenset({'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Type=Governance / Security'})",3,90
+0.1,"frozenset({'Question Type=Governance / Security', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",3,90
+0.09888888888888889,"frozenset({'Question Type=Governance / Security', 'Presales Category=Security & Compliance', 'Business Capability=Risk, compliance and identity control'})",3,89
+0.09666666666666666,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Security & Compliance', 'Question Complexity=High'})",3,87
+0.09555555555555556,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",3,86
+0.09555555555555556,"frozenset({'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",3,86
+0.09444444444444444,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Solution Architecture', 'Business Capability=Hybrid connectivity and network foundation'})",3,85
+0.09333333333333334,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Business Capability=Hybrid connectivity and network foundation'})",3,84
+0.08888888888888889,"frozenset({'Question Type=Architecture', 'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",3,80
+0.08777777777777777,"frozenset({'Presales Category=Solution Architecture', 'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",3,79
+0.08777777777777777,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Question Complexity=Medium'})",3,79
+0.08444444444444445,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Presales Category=Solution Architecture', 'Question Complexity=Medium'})",3,76
+0.08222222222222222,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Security & Compliance', 'Business Capability=Risk, compliance and identity control'})",3,74
+0.08222222222222222,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Type=Architecture', 'Question Complexity=Medium'})",3,74
+0.0811111111111111,"frozenset({'Question Intent=Request presales guidance', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Hybrid connectivity and network foundation'})",3,73
+0.0811111111111111,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Question Intent=Determine implementation approach'})",3,73
+0.08,"frozenset({'Business Capability=Risk, compliance and identity control', 'Question Intent=Understand capability / terminology', 'Question Complexity=High'})",3,72
+0.08,"frozenset({'Question Intent=Request presales guidance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",3,72
+0.07777777777777778,"frozenset({'Question Type=Governance / Security', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Business Capability=Risk, compliance and identity control'})",3,70
+0.07777777777777778,"frozenset({'Question Type=Best Practice', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",3,70
+0.07444444444444444,"frozenset({'Question Type=Commercial / Pricing', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",3,67
+0.07444444444444444,"frozenset({'Presales Category=Solution Architecture', 'Question Intent=Understand capability / terminology', 'Question Complexity=High'})",3,67
+0.07333333333333333,"frozenset({'Question Type=Best Practice', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",3,66
+0.07222222222222222,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Presales Category=Migration Assessment', 'Question Complexity=High'})",3,65
+0.07222222222222222,"frozenset({'Question Intent=Determine implementation approach', 'Presales Category=Security & Compliance', 'Question Complexity=High'})",3,65
+0.07,"frozenset({'Question Intent=Request presales guidance', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Risk, compliance and identity control'})",3,63
+0.06888888888888889,"frozenset({'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",3,62
+0.06888888888888889,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture', 'Question Intent=Understand capability / terminology'})",3,62
+0.06777777777777778,"frozenset({'Business Capability=Risk, compliance and identity control', 'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME', 'Question Complexity=High'})",3,61
+0.06777777777777778,"frozenset({'Question Type=Commercial / Pricing', 'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME', 'Business Capability=Risk, compliance and identity control'})",3,61
+0.06444444444444444,"frozenset({'Question Intent=Request presales guidance', 'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",3,58
+0.06444444444444444,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Solution Architecture', 'Business Capability=Risk, compliance and identity control'})",3,58
+0.06444444444444444,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Best Practice', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",3,58
+0.06444444444444444,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME'})",3,58
+0.06444444444444444,"frozenset({'Presales Category=Solution Architecture', 'Question Intent=Determine implementation approach', 'Question Complexity=High'})",3,58
+0.06333333333333334,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation', 'Question Type=Architecture'})",3,57
+0.06222222222222222,"frozenset({'Knowledge Gap=Public Documentation', 'Question Intent=Understand capability / terminology', 'Question Complexity=High'})",3,56
+0.06222222222222222,"frozenset({'Question Type=Architecture', 'Question Intent=Determine implementation approach', 'Question Complexity=High'})",3,56
+0.06,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME', 'Question Type=Commercial / Pricing'})",3,54
+0.058888888888888886,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Governance / Security', 'Question Complexity=High'})",3,53
+0.057777777777777775,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Security & Compliance', 'Question Type=Governance / Security'})",3,52
+0.056666666666666664,"frozenset({'Knowledge Gap=Public Documentation', 'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",3,51
+0.056666666666666664,"frozenset({'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Risk, compliance and identity control'})",3,51
+0.05555555555555555,"frozenset({'Presales Category=Solution Architecture', 'Business Capability=Hybrid connectivity and network foundation', 'Question Complexity=High'})",3,50
+0.05555555555555555,"frozenset({'Question Intent=Request presales guidance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Business Capability=Risk, compliance and identity control'})",3,50
+0.05555555555555555,"frozenset({'Question Intent=Determine implementation approach', 'Presales Category=Security & Compliance', 'Business Capability=Risk, compliance and identity control'})",3,50
+0.05333333333333334,"frozenset({'Question Type=Architecture', 'Business Capability=Hybrid connectivity and network foundation', 'Question Complexity=High'})",3,48
+0.05333333333333334,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Business Capability=Risk, compliance and identity control'})",3,48
+0.05333333333333334,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Presales Category=Solution Architecture', 'Question Intent=Understand capability / terminology'})",3,48
+0.05333333333333334,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Best Practice', 'Question Complexity=High'})",3,48
+0.052222222222222225,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation', 'Question Complexity=High'})",3,47
+0.052222222222222225,"frozenset({'Question Intent=Determine implementation approach', 'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME'})",3,47
+0.051111111111111114,"frozenset({'Presales Category=Security & Compliance', 'Question Intent=Understand capability / terminology', 'Question Complexity=High'})",3,46
+0.05,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Solution Architecture', 'Question Complexity=Medium'})",3,45
+0.05,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture', 'Question Complexity=Medium'})",3,45
+0.4166666666666667,"frozenset({'Business Capability=Risk, compliance and identity control', 'Question Complexity=High'})",2,375
+0.33,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=High'})",2,297
+0.3111111111111111,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Architecture'})",2,280
+0.31,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",2,279
+0.3055555555555556,"frozenset({'Presales Category=Solution Architecture', 'Question Complexity=High'})",2,275
+0.3,"frozenset({'Question Intent=Request presales guidance', 'Question Complexity=High'})",2,270
+0.2811111111111111,"frozenset({'Question Type=Architecture', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",2,253
+0.24666666666666667,"frozenset({'Presales Category=Security & Compliance', 'Question Complexity=High'})",2,222
+0.22444444444444445,"frozenset({'Question Type=Architecture', 'Question Complexity=High'})",2,202
+0.21333333333333335,"frozenset({'Question Intent=Request presales guidance', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",2,192
+0.20222222222222222,"frozenset({'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Complexity=High'})",2,182
+0.1922222222222222,"frozenset({'Presales Category=Security & Compliance', 'Business Capability=Risk, compliance and identity control'})",2,173
+0.1922222222222222,"frozenset({'Question Intent=Determine implementation approach', 'Question Complexity=High'})",2,173
+0.19111111111111112,"frozenset({'Presales Category=Solution Architecture', 'Business Capability=Hybrid connectivity and network foundation'})",2,172
+0.19111111111111112,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Solution Architecture'})",2,172
+0.18444444444444444,"frozenset({'Presales Category=Solution Architecture', 'Business Capability=Risk, compliance and identity control'})",2,166
+0.17777777777777778,"frozenset({'Question Type=Architecture', 'Business Capability=Hybrid connectivity and network foundation'})",2,160
+0.1711111111111111,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Risk, compliance and identity control'})",2,154
+0.17,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Architecture'})",2,153
+0.16666666666666666,"frozenset({'Question Type=Commercial / Pricing', 'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME'})",2,150
+0.16555555555555557,"frozenset({'Question Intent=Request presales guidance', 'Business Capability=Risk, compliance and identity control'})",2,149
+0.16111111111111112,"frozenset({'Question Intent=Understand capability / terminology', 'Question Complexity=High'})",2,145
+0.15888888888888889,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Business Capability=Hybrid connectivity and network foundation'})",2,143
+0.15555555555555556,"frozenset({'Presales Category=Security & Compliance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME'})",2,140
+0.14666666666666667,"frozenset({'Question Type=Commercial / Pricing', 'Question Complexity=High'})",2,132
+0.13444444444444445,"frozenset({'Question Complexity=Medium', 'Business Capability=Hybrid connectivity and network foundation'})",2,121
+0.13444444444444445,"frozenset({'Question Type=Governance / Security', 'Question Complexity=High'})",2,121
+0.13,"frozenset({'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",2,117
+0.1288888888888889,"frozenset({'Question Type=Architecture', 'Business Capability=Risk, compliance and identity control'})",2,116
+0.12666666666666668,"frozenset({'Presales Category=Security & Compliance', 'Question Type=Governance / Security'})",2,114
+0.12333333333333334,"frozenset({'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME', 'Question Complexity=High'})",2,111
+0.12111111111111111,"frozenset({'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Business Capability=Risk, compliance and identity control'})",2,109
+0.12,"frozenset({'Presales Category=Solution Architecture', 'Question Complexity=Medium'})",2,108
+0.12,"frozenset({'Question Type=Best Practice', 'Question Complexity=High'})",2,108
+0.11777777777777777,"frozenset({'Business Capability=AI-enabled business capability', 'Question Complexity=High'})",2,106
+0.11666666666666667,"frozenset({'Question Intent=Request presales guidance', 'Business Capability=Hybrid connectivity and network foundation'})",2,105
+0.1111111111111111,"frozenset({'Knowledge Gap=Public Documentation', 'Question Complexity=High'})",2,100
+0.1111111111111111,"frozenset({'Presales Category=Solution Architecture', 'Question Intent=Understand capability / terminology'})",2,100
+0.10888888888888888,"frozenset({'Question Intent=Determine implementation approach', 'Business Capability=Risk, compliance and identity control'})",2,98
+0.10666666666666667,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Complexity=Medium'})",2,96
+0.10333333333333333,"frozenset({'Question Type=Architecture', 'Question Complexity=Medium'})",2,93
+0.10222222222222223,"frozenset({'Question Type=Governance / Security', 'Business Capability=Risk, compliance and identity control'})",2,92
+0.1,"frozenset({'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME', 'Question Type=Governance / Security'})",2,90
+0.09666666666666666,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Security & Compliance'})",2,87
+0.09666666666666666,"frozenset({'Presales Category=Solution Architecture', 'Question Intent=Determine implementation approach'})",2,87
+0.09555555555555556,"frozenset({'Question Type=Best Practice', 'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'})",2,86
+0.09555555555555556,"frozenset({'Presales Category=Migration Assessment', 'Question Complexity=High'})",2,86
+0.09222222222222222,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Presales Category=Migration Assessment'})",2,83
+0.09,"frozenset({'Question Type=Architecture', 'Question Intent=Determine implementation approach'})",2,81
+0.08555555555555555,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation'})",2,77
+0.08444444444444445,"frozenset({'Business Capability=Enterprise data and analytics', 'Question Complexity=High'})",2,76
+0.08333333333333333,"frozenset({'Knowledge Gap=Public Documentation', 'Question Intent=Understand capability / terminology'})",2,75
+0.08333333333333333,"frozenset({'Question Intent=Request presales guidance', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME'})",2,75
+0.08,"frozenset({'Question Intent=Understand capability / terminology', 'Business Capability=Risk, compliance and identity control'})",2,72
+0.07777777777777778,"frozenset({'Question Type=Best Practice', 'Business Capability=Risk, compliance and identity control'})",2,70
+0.07777777777777778,"frozenset({'Presales Category=Solution Architecture', 'Question Type=Best Practice'})",2,70
+0.07777777777777778,"frozenset({'Question Intent=Request presales guidance', 'Question Complexity=Medium'})",2,70
+0.07444444444444444,"frozenset({'Question Type=Commercial / Pricing', 'Business Capability=Risk, compliance and identity control'})",2,67
+0.07333333333333333,"frozenset({'Question Intent=Determine implementation approach', 'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME'})",2,66
+0.07222222222222222,"frozenset({'Question Intent=Determine implementation approach', 'Presales Category=Security & Compliance'})",2,65
+0.07111111111111111,"frozenset({'Question Type=Architecture', 'Question Intent=Understand capability / terminology'})",2,64
+0.07,"frozenset({'Question Type=Commercial / Pricing', 'Presales Category=Solution Architecture'})",2,63
+0.06888888888888889,"frozenset({'Knowledge Gap=Public Documentation', 'Question Type=Architecture'})",2,62
+0.06777777777777778,"frozenset({'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME', 'Business Capability=Risk, compliance and identity control'})",2,61
+0.06333333333333334,"frozenset({'Business Capability=Hybrid connectivity and network foundation', 'Question Complexity=High'})",2,57
+0.06333333333333334,"frozenset({'Presales Category=Solution Architecture', 'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME'})",2,57
+0.06,"frozenset({'Question Intent=Request presales guidance', 'Knowledge Gap=Public Documentation'})",2,54
+0.058888888888888886,"frozenset({'Question Intent=Request presales guidance', 'Question Type=Governance / Security'})",2,53
+0.057777777777777775,"frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME', 'Question Intent=Understand capability / terminology'})",2,52
+0.056666666666666664,"frozenset({'Knowledge Gap=Public Documentation', 'Business Capability=Risk, compliance and identity control'})",2,51
+0.056666666666666664,"frozenset({'Question Type=Informational', 'Question Complexity=High'})",2,51
+0.05333333333333334,"frozenset({'Question Intent=Request presales guidance', 'Presales Category=Migration Assessment'})",2,48
+0.051111111111111114,"frozenset({'Presales Category=Security & Compliance', 'Question Intent=Understand capability / terminology'})",2,46
+0.05,"frozenset({'Question Intent=Understand capability / terminology', 'Business Capability=Hybrid connectivity and network foundation'})",2,45
+0.05,"frozenset({'Question Type=Commercial / Pricing', 'Question Intent=Understand capability / terminology'})",2,45
+0.7666666666666667,frozenset({'Question Complexity=High'}),1,690
+0.4588888888888889,frozenset({'Presales Category=Solution Architecture'}),1,413
+0.45666666666666667,frozenset({'Knowledge Gap=Public Documentation | Architecture Blueprint | Methodology | SME'}),1,411
+0.4166666666666667,"frozenset({'Business Capability=Risk, compliance and identity control'})",1,375
+0.40444444444444444,frozenset({'Question Intent=Request presales guidance'}),1,364
+0.3522222222222222,frozenset({'Question Type=Architecture'}),1,317
+0.24666666666666667,frozenset({'Presales Category=Security & Compliance'}),1,222
+0.24444444444444444,frozenset({'Question Intent=Determine implementation approach'}),1,220
+0.23,frozenset({'Business Capability=Hybrid connectivity and network foundation'}),1,207
+0.2111111111111111,frozenset({'Knowledge Gap=Public Documentation | Governance Framework | Risk Register | SME'}),1,190
+0.20555555555555555,frozenset({'Question Intent=Understand capability / terminology'}),1,185
+0.19333333333333333,frozenset({'Question Type=Commercial / Pricing'}),1,174
+0.1811111111111111,frozenset({'Question Complexity=Medium'}),1,163
+0.17,frozenset({'Knowledge Gap=Public Documentation | Commercial Model | Pricing Template | SME'}),1,153
+0.1622222222222222,frozenset({'Knowledge Gap=Public Documentation'}),1,146
+0.15,frozenset({'Question Type=Best Practice'}),1,135
+0.13666666666666666,frozenset({'Question Type=Governance / Security'}),1,123
+0.11888888888888889,frozenset({'Presales Category=Migration Assessment'}),1,107
+0.11777777777777777,frozenset({'Business Capability=AI-enabled business capability'}),1,106
+0.08444444444444445,frozenset({'Business Capability=Enterprise data and analytics'}),1,76
+0.07222222222222222,frozenset({'Question Type=Informational'}),1,65
+0.052222222222222225,frozenset({'Question Complexity=Low'}),1,47
+0.051111111111111114,frozenset({'Question Type=Implementation'}),1,46
+0.05,frozenset({'Presales Category=Data Platform'}),1,45

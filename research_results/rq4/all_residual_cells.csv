@@ -1,0 +1,149 @@
+Predictor,Predictor Category,Knowledge Gap Category,Adjusted Standardized Residual,Raw p-value,FDR q-value,FDR Significant,Direction,Absolute Residual
+Question Type,Commercial / Pricing,Public Documentation | Commercial Model | Pricing Template | SME,27.05910551936553,2.9844879009368533e-161,4.4170420933865424e-159,True,Over-represented,27.05910551936553
+Presales Category,Security & Compliance,Public Documentation | Governance Framework | Risk Register | SME,17.647029115383333,1.0725173772984219e-69,7.936628592008321e-68,True,Over-represented,17.647029115383333
+Question Type,Governance / Security,Public Documentation | Governance Framework | Risk Register | SME,15.226526208094421,2.357912300977979e-52,1.1632367351491363e-50,True,Over-represented,15.226526208094421
+Question Type,Architecture,Public Documentation | Architecture Blueprint | Methodology | SME,15.16348144341699,6.1709692450860436e-52,2.283258620681836e-50,True,Over-represented,15.16348144341699
+Presales Category,Solution Architecture,Public Documentation | Governance Framework | Risk Register | SME,-14.291553060458169,2.4703808979940726e-46,7.312327458062454e-45,True,Under-represented,14.291553060458169
+Question Type,Commercial / Pricing,Public Documentation | Architecture Blueprint | Methodology | SME,-13.464618408709411,2.526199132474052e-41,6.231291193435995e-40,True,Under-represented,13.464618408709411
+Question Intent,Estimate commercial impact,Public Documentation | Commercial Model | Pricing Template | SME,13.07816508436519,4.3890758211245444e-39,9.279760307520465e-38,True,Over-represented,13.07816508436519
+Presales Category,Security & Compliance,Public Documentation | Architecture Blueprint | Methodology | SME,-12.943716144183691,2.549904115141508e-38,4.717322613011789e-37,True,Under-represented,12.943716144183691
+Presales Category,Cost Optimization,Public Documentation | Commercial Model | Pricing Template | SME,12.354246812436498,4.6206342337872326e-35,7.598376295561227e-34,True,Over-represented,12.354246812436498
+Presales Category,Solution Architecture,Public Documentation | Architecture Blueprint | Methodology | SME,12.139514930614883,6.5211471371242516e-34,9.651297762943892e-33,True,Over-represented,12.139514930614883
+Question Type,Architecture,Public Documentation | Governance Framework | Risk Register | SME,-11.443641251103227,2.530379101568965e-30,3.404510063929153e-29,True,Under-represented,11.443641251103227
+Presales Category,Data Platform,Public Documentation | Governance Framework | Risk Register | SME,11.430581234182903,2.9413335637975406e-30,3.6276447286836334e-29,True,Over-represented,11.430581234182903
+Question Intent,Understand capability / terminology,Public Documentation,10.066257729035126,7.788537800267036e-24,8.866950726457856e-23,True,Over-represented,10.066257729035126
+Question Type,Architecture,Public Documentation | Commercial Model | Pricing Template | SME,-9.640010568985094,5.4182397345780455e-22,5.727853433696791e-21,True,Under-represented,9.640010568985094
+Question Type,Implementation,Public Documentation | Governance Framework | Risk Register | SME,8.637711748891894,5.735009565794899e-18,5.6585427715843e-17,True,Over-represented,8.637711748891894
+Business Capability,Hybrid connectivity and network foundation,Public Documentation | Governance Framework | Risk Register | SME,-8.09360591283116,5.792388399844949e-16,5.357959269856577e-15,True,Under-represented,8.09360591283116
+Business Capability,Hybrid connectivity and network foundation,Public Documentation | Architecture Blueprint | Methodology | SME,7.70743114036492,1.2837553210497346e-14,1.1176222795021218e-13,True,Over-represented,7.70743114036492
+Question Type,Commercial / Pricing,Public Documentation | Governance Framework | Risk Register | SME,-7.597578475824392,3.017232527685323e-14,2.4808356338745986e-13,True,Under-represented,7.597578475824392
+Business Capability,Financial governance / FinOps,Public Documentation | Commercial Model | Pricing Template | SME,7.281266947964451,3.306995548549165e-13,2.5759754799225077e-12,True,Over-represented,7.281266947964451
+Question Type,Governance / Security,Public Documentation | Architecture Blueprint | Methodology | SME,-7.241322999491351,4.443287791900635e-13,3.2880329660064697e-12,True,Under-represented,7.241322999491351
+Presales Category,Migration Assessment,Public Documentation | Architecture Blueprint | Methodology | SME,7.0579902255145095,1.6892793864192398e-12,1.1905397580478452e-11,True,Over-represented,7.0579902255145095
+Question Complexity,High,Public Documentation | Governance Framework | Risk Register | SME,7.016634262616437,2.27276502537367e-12,1.52895101706956e-11,True,Over-represented,7.016634262616437
+Question Complexity,Medium,Public Documentation | Governance Framework | Risk Register | SME,-6.025852013159721,1.6822105409921689e-09,1.0824659133340912e-08,True,Under-represented,6.025852013159721
+Presales Category,Cost Optimization,Public Documentation | Architecture Blueprint | Methodology | SME,-6.00873543665131,1.8697594634004457e-09,1.1489280148566124e-08,True,Under-represented,6.00873543665131
+Presales Category,Data Platform,Public Documentation | Architecture Blueprint | Methodology | SME,-6.002689387657938,1.9407567818523857e-09,1.1489280148566124e-08,True,Under-represented,6.002689387657938
+Presales Category,Migration Assessment,Public Documentation | Governance Framework | Risk Register | SME,-5.700647353254546,1.1935331233868e-08,6.793957779278708e-08,True,Under-represented,5.700647353254546
+Question Intent,Estimate commercial impact,Public Documentation | Architecture Blueprint | Methodology | SME,-5.614125480248501,1.9755881855003445e-08,1.0829150053853741e-07,True,Under-represented,5.614125480248501
+Question Type,Best Practice,Public Documentation | Commercial Model | Pricing Template | SME,-5.4549989407891335,4.8973137402180764e-08,2.5436583156756113e-07,True,Under-represented,5.4549989407891335
+Question Type,Informational,Public Documentation | Governance Framework | Risk Register | SME,5.451873334959574,4.9841953482832926e-08,2.5436583156756113e-07,True,Over-represented,5.451873334959574
+Question Type,Governance / Security,Public Documentation | Commercial Model | Pricing Template | SME,-5.401927056875526,6.592876073939017e-08,3.252485529809915e-07,True,Under-represented,5.401927056875526
+Question Intent,Understand capability / terminology,Public Documentation | Architecture Blueprint | Methodology | SME,-5.379106306814329,7.48564992341027e-08,3.573794156982968e-07,True,Under-represented,5.379106306814329
+Presales Category,Vendor Evaluation,Public Documentation,5.095701554475836,3.4745213126257207e-07,1.6069661070893957e-06,True,Over-represented,5.095701554475836
+Question Intent,Determine implementation approach,Public Documentation,-4.984028963789666,6.227375154883572e-07,2.7928834027962687e-06,True,Under-represented,4.984028963789666
+Business Capability,"Risk, compliance and identity control",Public Documentation | Governance Framework | Risk Register | SME,4.942700373790454,7.704785039700615e-07,3.353847605516738e-06,True,Over-represented,4.942700373790454
+Presales Category,Resilience / DR,Public Documentation | Architecture Blueprint | Methodology | SME,4.805555746455945,1.5432222961227057e-06,6.52562570931887e-06,True,Over-represented,4.805555746455945
+Presales Category,AI / GenAI,Public Documentation | Governance Framework | Risk Register | SME,4.649686360108113,3.324401806267024e-06,1.3666985203542209e-05,True,Over-represented,4.649686360108113
+Question Type,Best Practice,Public Documentation | Architecture Blueprint | Methodology | SME,4.563413127404246,5.032864047423153e-06,2.0131456189692613e-05,True,Over-represented,4.563413127404246
+Presales Category,Operations,Public Documentation,4.555189939135875,5.233826426372214e-06,2.0384376607975992e-05,True,Over-represented,4.555189939135875
+Question Type,Informational,Public Documentation | Architecture Blueprint | Methodology | SME,-4.054402683390375,5.0262569267793645e-05,0.00019074000645214002,True,Under-represented,4.054402683390375
+Business Capability,AI-enabled business capability,Public Documentation | Governance Framework | Risk Register | SME,3.9585616842816127,7.540246845760113e-05,0.00027898913329312415,True,Over-represented,3.9585616842816127
+Business Capability,IT operations and observability,Public Documentation,3.9427106465484116,8.056583480694671e-05,0.0002908230134494662,True,Over-represented,3.9427106465484116
+Question Type,Migration,Public Documentation | Architecture Blueprint | Methodology | SME,3.81004943932844,0.00013893900482392417,0.00048333138260005205,True,Over-represented,3.81004943932844
+Business Capability,Enterprise data and analytics,Public Documentation | Governance Framework | Risk Register | SME,3.805777798873537,0.00014135925051443998,0.00048333138260005205,True,Over-represented,3.805777798873537
+Business Capability,Digital platform delivery,Public Documentation | Architecture Blueprint | Methodology | SME,-3.8017233651553752,0.00014369311374596143,0.00048333138260005205,True,Under-represented,3.8017233651553752
+Question Type,Informational,Public Documentation | Commercial Model | Pricing Template | SME,-3.7880884394324967,0.000151810814038624,0.0004992888995048078,True,Under-represented,3.7880884394324967
+Question Complexity,Medium,Public Documentation | Architecture Blueprint | Methodology | SME,3.7469403035679183,0.00017900466439949237,0.0005759280506766277,True,Over-represented,3.7469403035679183
+Question Intent,Determine implementation approach,Public Documentation | Governance Framework | Risk Register | SME,3.7167397373905797,0.0002018101432896762,0.0006354872597206826,True,Over-represented,3.7167397373905797
+Business Capability,Cloud migration and modernization,Public Documentation | Architecture Blueprint | Methodology | SME,3.677770550948825,0.00023528145986146713,0.0007254511679061903,True,Over-represented,3.677770550948825
+Question Type,Implementation,Public Documentation | Architecture Blueprint | Methodology | SME,-3.6484048655748436,0.00026387357868744326,0.0007970059111375837,True,Under-represented,3.6484048655748436
+Question Intent,Request presales guidance,Public Documentation | Architecture Blueprint | Methodology | SME,3.5141955755459424,0.0004410879285864256,0.0013056202686158196,True,Over-represented,3.5141955755459424
+Presales Category,AI / GenAI,Public Documentation | Architecture Blueprint | Methodology | SME,-3.4572826999151958,0.0005456521062561754,0.0015834610142336071,True,Under-represented,3.4572826999151958
+Question Intent,Request presales guidance,Public Documentation | Commercial Model | Pricing Template | SME,-3.4137102105233548,0.0006408469981598234,0.0018067066733524493,True,Under-represented,3.4137102105233548
+Question Intent,Assess business rationale,Public Documentation | Commercial Model | Pricing Template | SME,3.4110382144491673,0.0006471602064723413,0.0018067066733524493,True,Over-represented,3.4110382144491673
+Business Capability,AI-enabled business capability,Public Documentation | Architecture Blueprint | Methodology | SME,-3.4060074570215075,0.000659203786223191,0.0018067066733524493,True,Under-represented,3.4060074570215075
+Presales Category,Cost Optimization,Public Documentation | Governance Framework | Risk Register | SME,-3.3905037361397468,0.0006976430359901593,0.0018772939877553377,True,Under-represented,3.3905037361397468
+Business Capability,Financial governance / FinOps,Public Documentation | Architecture Blueprint | Methodology | SME,-3.329642469623784,0.0008695756437354854,0.0022981642013009257,True,Under-represented,3.329642469623784
+Business Capability,Cloud migration and modernization,Public Documentation | Governance Framework | Risk Register | SME,-3.3029318174264204,0.0009567964878984022,0.0024361082406216257,True,Under-represented,3.3029318174264204
+Question Type,Informational,Public Documentation,3.3028495999635075,0.0009570770480471556,0.0024361082406216257,True,Over-represented,3.3028495999635075
+Business Capability,Enterprise data and analytics,Public Documentation | Architecture Blueprint | Methodology | SME,-3.2987535677531636,0.0009711512580856481,0.0024361082406216257,True,Under-represented,3.2987535677531636
+Business Capability,Digital platform delivery,Public Documentation | Commercial Model | Pricing Template | SME,3.2359722518756495,0.0012122916818052625,0.002990319481786314,True,Over-represented,3.2359722518756495
+Question Intent,Estimate commercial impact,Public Documentation | Governance Framework | Risk Register | SME,-3.1678401581528126,0.0015357593209039853,0.003726104581865407,True,Under-represented,3.1678401581528126
+Question Type,Implementation,Public Documentation | Commercial Model | Pricing Template | SME,-3.151059832912762,0.0016267916084134265,0.0038833090007288243,True,Under-represented,3.151059832912762
+Presales Category,Data Platform,Public Documentation | Commercial Model | Pricing Template | SME,-3.114797867882909,0.0018407100071834116,0.004324207635922935,True,Under-represented,3.114797867882909
+Question Type,Migration,Public Documentation | Commercial Model | Pricing Template | SME,-2.928110347056457,0.0034102898889040857,0.007886295368090698,True,Under-represented,2.928110347056457
+Business Capability,Business continuity and resilience,Public Documentation | Commercial Model | Pricing Template | SME,2.9166848500362446,0.0035377302522326495,0.008055139651237418,True,Over-represented,2.9166848500362446
+Question Complexity,Low,Public Documentation | Governance Framework | Risk Register | SME,-2.9085823553522396,0.0036307153410306435,0.008141604098068717,True,Under-represented,2.9085823553522396
+Business Capability,Business continuity and resilience,Public Documentation | Governance Framework | Risk Register | SME,-2.881840111519597,0.003953602955917405,0.00860490055111435,True,Under-represented,2.881840111519597
+Presales Category,Governance & Operating Model,Public Documentation | Governance Framework | Risk Register | SME,-2.881840111519597,0.003953602955917405,0.00860490055111435,True,Under-represented,2.881840111519597
+Question Complexity,High,Public Documentation | Architecture Blueprint | Methodology | SME,-2.863734857482916,0.004186783074070046,0.008980346303802416,True,Under-represented,2.863734857482916
+Business Capability,Hybrid connectivity and network foundation,Public Documentation | Commercial Model | Pricing Template | SME,-2.7813186846317834,0.005413856302407447,0.011446439039375745,True,Under-represented,2.7813186846317834
+Question Complexity,Low,Public Documentation,2.591172066676328,0.009564965389356193,0.01993823771302418,True,Over-represented,2.591172066676328
+Presales Category,Governance & Operating Model,Public Documentation,2.585716315521313,0.009717687445142868,0.019975246415015895,True,Over-represented,2.585716315521313
+Question Intent,Determine implementation approach,Public Documentation | Architecture Blueprint | Methodology | SME,2.574441624642475,0.010040202755933793,0.02035547955997536,True,Over-represented,2.574441624642475
+Question Intent,Determine implementation approach,Public Documentation | Commercial Model | Pricing Template | SME,-2.5604342988049726,0.010454142849699087,0.020908285699398173,True,Under-represented,2.5604342988049726
+Question Complexity,High,Public Documentation,-2.5511103370973114,0.010738032471951417,0.02118971741131746,True,Under-represented,2.5511103370973114
+Question Intent,Assess business rationale,Public Documentation,-2.4513933900396863,0.01423043339864133,0.027711896618406805,True,Under-represented,2.4513933900396863
+Presales Category,Solution Architecture,Public Documentation | Commercial Model | Pricing Template | SME,-2.352453561541083,0.018650018359612636,0.03584678853535935,True,Under-represented,2.352453561541083
+Business Capability,"Risk, compliance and identity control",Public Documentation | Architecture Blueprint | Methodology | SME,-2.341435709277051,0.01920973410538338,0.036449239071753084,True,Under-represented,2.341435709277051
+Presales Category,Migration Assessment,Public Documentation,-2.3348769643045078,0.019549849064217185,0.03662503368992587,True,Under-represented,2.3348769643045078
+Presales Category,Resilience / DR,Public Documentation | Governance Framework | Risk Register | SME,-2.2790703289200276,0.022662884966956634,0.04164556987317066,True,Under-represented,2.2790703289200276
+Question Intent,Determine timing / applicability,Public Documentation,-2.2768948109811795,0.02279250783599205,0.04164556987317066,True,Under-represented,2.2768948109811795
+Question Intent,Estimate commercial impact,Public Documentation,-2.233258025481842,0.02553193380805075,0.04608202687306721,True,Under-represented,2.233258025481842
+Business Capability,AI-enabled business capability,Public Documentation,2.189174964784127,0.028584125540214368,0.05096928409580393,False,Over-represented,2.189174964784127
+Presales Category,Vendor Evaluation,Public Documentation | Architecture Blueprint | Methodology | SME,-2.0557070278397065,0.03981076411027389,0.07014277486095877,False,Under-represented,2.0557070278397065
+Question Type,Architecture,Public Documentation,2.0018933912898715,0.04529619858627874,0.07853684204943165,False,Over-represented,2.0018933912898715
+Question Complexity,Low,Public Documentation | Commercial Model | Pricing Template | SME,1.998352182518302,0.04567849185855374,0.07853684204943165,False,Over-represented,1.998352182518302
+Presales Category,Resilience / DR,Public Documentation | Commercial Model | Pricing Template | SME,-1.9938639238490121,0.04616692742094968,0.07853684204943165,False,Under-represented,1.9938639238490121
+Presales Category,Resilience / DR,Public Documentation,-1.9386564568303386,0.052543184066244586,0.08836808229322952,False,Under-represented,1.9386564568303386
+Business Capability,AI-enabled business capability,Public Documentation | Commercial Model | Pricing Template | SME,-1.93255416989857,0.05329114281748012,0.08856623827548764,False,Under-represented,1.93255416989857
+Presales Category,Governance & Operating Model,Public Documentation | Commercial Model | Pricing Template | SME,1.927978121210399,0.0538578475999587,0.08856623827548764,False,Over-represented,1.927978121210399
+Business Capability,Cloud migration and modernization,Public Documentation,-1.921415199225578,0.05467938387311302,0.0889291078375904,False,Under-represented,1.921415199225578
+Business Capability,Financial governance / FinOps,Public Documentation | Governance Framework | Risk Register | SME,-1.8787921938464487,0.060272873346944235,0.09696070929725813,False,Under-represented,1.8787921938464487
+Presales Category,Operations,Public Documentation | Architecture Blueprint | Methodology | SME,-1.837653926729933,0.06611341701919664,0.10521274966495808,False,Under-represented,1.837653926729933
+Question Intent,Understand capability / terminology,Public Documentation | Governance Framework | Risk Register | SME,-1.8303494097420538,0.06719770742008387,0.10556572764169966,False,Under-represented,1.8303494097420538
+Business Capability,Cloud foundation and workload architecture,Public Documentation | Commercial Model | Pricing Template | SME,-1.8265876966439492,0.06776178463487478,0.10556572764169966,False,Under-represented,1.8265876966439492
+Presales Category,Solution Architecture,Public Documentation,1.81492488763092,0.06953545329859091,0.10720049050199432,False,Over-represented,1.81492488763092
+Business Capability,"Risk, compliance and identity control",Public Documentation,-1.8034625942893057,0.07131559488410988,0.10881142312214703,False,Under-represented,1.8034625942893057
+Presales Category,AI / GenAI,Public Documentation | Commercial Model | Pricing Template | SME,-1.7066867865313895,0.08788028447735687,0.13271716431274302,False,Under-represented,1.7066867865313895
+Presales Category,Security & Compliance,Public Documentation,-1.6808290203924052,0.09279613004779526,0.13872552774821917,False,Under-represented,1.6808290203924052
+Business Capability,Cloud foundation and workload architecture,Public Documentation,1.6452438895159567,0.09991952587496941,0.14788089829495474,False,Over-represented,1.6452438895159567
+Business Capability,IT operations and observability,Public Documentation | Architecture Blueprint | Methodology | SME,-1.5905676378807712,0.11170691241491579,0.163689337004035,False,Under-represented,1.5905676378807712
+Question Type,Governance / Security,Public Documentation,-1.5671075322709276,0.11708955888695131,0.1698946540712627,False,Under-represented,1.5671075322709276
+Business Capability,Digital platform delivery,Public Documentation | Governance Framework | Risk Register | SME,1.5256558019356106,0.12709560715812235,0.1826228141689525,False,Over-represented,1.5256558019356106
+Business Capability,Cloud foundation and workload architecture,Public Documentation | Governance Framework | Risk Register | SME,-1.469748174338222,0.1416299700940632,0.2015503420569361,False,Under-represented,1.469748174338222
+Business Capability,Business continuity and resilience,Public Documentation,-1.4439714489274864,0.1487470067156499,0.20966244756110652,False,Under-represented,1.4439714489274864
+Question Type,Implementation,Public Documentation,-1.4215061786298435,0.15516965863730145,0.21665197621057183,False,Under-represented,1.4215061786298435
+Business Capability,Hybrid connectivity and network foundation,Public Documentation,1.3793831018845022,0.16777666650704814,0.2301190367807413,False,Over-represented,1.3793831018845022
+Question Intent,Evaluate options / fit,Public Documentation | Architecture Blueprint | Methodology | SME,1.377109795216763,0.16847830474241066,0.2301190367807413,False,Over-represented,1.377109795216763
+Presales Category,Data Platform,Public Documentation,-1.3690720016294677,0.1709767692323101,0.2301190367807413,False,Under-represented,1.3690720016294677
+Question Type,Migration,Public Documentation | Governance Framework | Risk Register | SME,-1.3652046298192246,0.17218874362505265,0.2301190367807413,False,Under-represented,1.3652046298192246
+Business Capability,Cloud foundation and workload architecture,Public Documentation | Architecture Blueprint | Methodology | SME,1.3639310174523551,0.17258927758555598,0.2301190367807413,False,Over-represented,1.3639310174523551
+Question Complexity,High,Public Documentation | Commercial Model | Pricing Template | SME,-1.3217949995246974,0.18623642392166606,0.24609813161077299,False,Under-represented,1.3217949995246974
+Question Complexity,Medium,Public Documentation,1.3048941831047243,0.19192888223667293,0.25137588115953624,False,Over-represented,1.3048941831047243
+Presales Category,AI / GenAI,Public Documentation,1.2632458139025153,0.20650085290794895,0.26808882658224953,False,Over-represented,1.2632458139025153
+Question Intent,Determine timing / applicability,Public Documentation | Architecture Blueprint | Methodology | SME,1.2491874631986923,0.2115965162941007,0.2723155166219731,False,Over-represented,1.2491874631986923
+Question Type,Best Practice,Public Documentation,-1.2407953051098282,0.2146813760520485,0.27390382461813084,False,Under-represented,1.2407953051098282
+Business Capability,Business continuity and resilience,Public Documentation | Architecture Blueprint | Methodology | SME,1.2302180927162139,0.21861544644327935,0.27653919721030207,False,Over-represented,1.2302180927162139
+Presales Category,Vendor Evaluation,Public Documentation | Governance Framework | Risk Register | SME,-1.1599582693864783,0.24606579683177565,0.30862489772121016,False,Under-represented,1.1599582693864783
+Question Complexity,Low,Public Documentation | Architecture Blueprint | Methodology | SME,-1.0417398362392967,0.29753231443090367,0.3687655735671634,False,Under-represented,1.0417398362392967
+Presales Category,Operations,Public Documentation | Governance Framework | Risk Register | SME,-1.0369190938754387,0.2997735645299995,0.3687655735671634,False,Under-represented,1.0369190938754387
+Question Intent,Evaluate options / fit,Public Documentation,-1.0332417635280844,0.30149077298396465,0.3687655735671634,False,Under-represented,1.0332417635280844
+Presales Category,Vendor Evaluation,Public Documentation | Commercial Model | Pricing Template | SME,-1.0147992877411505,0.3102015133461541,0.37631003258385903,False,Under-represented,1.0147992877411505
+Presales Category,Governance & Operating Model,Public Documentation | Architecture Blueprint | Methodology | SME,-1.00654207585872,0.3141548821644815,0.37800750049059567,False,Under-represented,1.00654207585872
+Question Type,Commercial / Pricing,Public Documentation,-0.9677356222199011,0.33317642274069814,0.39766218198083325,False,Under-represented,0.9677356222199011
+Question Intent,Request presales guidance,Public Documentation,-0.9301744152411942,0.35228078638862925,0.417100451084137,False,Under-represented,0.9301744152411942
+Presales Category,Operations,Public Documentation | Commercial Model | Pricing Template | SME,-0.9071574259878805,0.3643235538852655,0.4279356029763436,False,Under-represented,0.9071574259878805
+Business Capability,IT operations and observability,Public Documentation | Governance Framework | Risk Register | SME,-0.8974975809258073,0.36945346366463383,0.43054419387689613,False,Under-represented,0.8974975809258073
+Presales Category,Migration Assessment,Public Documentation | Commercial Model | Pricing Template | SME,-0.8746210960223233,0.3817801053220754,0.44143324677864965,False,Under-represented,0.8746210960223233
+Business Capability,Financial governance / FinOps,Public Documentation,-0.8403422692268914,0.4007165079902968,0.4597367688570847,False,Under-represented,0.8403422692268914
+Business Capability,IT operations and observability,Public Documentation | Commercial Model | Pricing Template | SME,-0.7851833379787378,0.43234608314292644,0.49220938696271627,False,Under-represented,0.7851833379787378
+Question Intent,Understand capability / terminology,Public Documentation | Commercial Model | Pricing Template | SME,-0.7575964968590402,0.4486925779875025,0.5069198591003845,False,Under-represented,0.7575964968590402
+Presales Category,Cost Optimization,Public Documentation,-0.7159611435617728,0.4740153420633759,0.531294943434957,False,Under-represented,0.7159611435617728
+Question Intent,Evaluate options / fit,Public Documentation | Commercial Model | Pricing Template | SME,-0.7104139371674196,0.4774474829516844,0.531294943434957,False,Under-represented,0.7104139371674196
+Business Capability,Enterprise data and analytics,Public Documentation | Commercial Model | Pricing Template | SME,0.6638205316750381,0.5068051831424351,0.5597549783961223,False,Over-represented,0.6638205316750381
+Question Type,Migration,Public Documentation,-0.6532579910272506,0.5135899699817221,0.563046781905888,False,Under-represented,0.6532579910272506
+Question Intent,Assess business rationale,Public Documentation | Governance Framework | Risk Register | SME,-0.6067031813725466,0.544047910517174,0.5920521379157482,False,Under-represented,0.6067031813725466
+Business Capability,Cloud migration and modernization,Public Documentation | Commercial Model | Pricing Template | SME,0.5970963766376473,0.5504430368961868,0.5946391931433259,False,Over-represented,0.5970963766376473
+Question Type,Best Practice,Public Documentation | Governance Framework | Risk Register | SME,0.571873794821925,0.5674074785300581,0.6085239624815116,False,Over-represented,0.571873794821925
+Business Capability,"Risk, compliance and identity control",Public Documentation | Commercial Model | Pricing Template | SME,-0.4949885535220482,0.6206082004216154,0.6607914651971156,False,Under-represented,0.4949885535220482
+Business Capability,Enterprise data and analytics,Public Documentation,-0.432135486486045,0.6656429444126815,0.7036796840934061,False,Under-represented,0.432135486486045
+Presales Category,Security & Compliance,Public Documentation | Commercial Model | Pricing Template | SME,-0.3581918185903235,0.7201997694363165,0.7559543679189704,False,Under-represented,0.3581918185903235
+Question Intent,Determine timing / applicability,Public Documentation | Commercial Model | Pricing Template | SME,0.30728640820320907,0.7586253802460955,0.7854031381551445,False,Over-represented,0.30728640820320907
+Question Intent,Request presales guidance,Public Documentation | Governance Framework | Risk Register | SME,-0.3069660043818792,0.7588692483526058,0.7854031381551445,False,Under-represented,0.3069660043818792
+Question Complexity,Medium,Public Documentation | Commercial Model | Pricing Template | SME,0.29724866446190595,0.7662766710262551,0.7875621341103177,False,Over-represented,0.29724866446190595
+Question Intent,Assess business rationale,Public Documentation | Architecture Blueprint | Methodology | SME,-0.2609553530004087,0.7941269376964195,0.8105571502004834,False,Under-represented,0.2609553530004087
+Question Intent,Determine timing / applicability,Public Documentation | Governance Framework | Risk Register | SME,0.24924744852781072,0.8031693786495415,0.8141716989050146,False,Over-represented,0.24924744852781072
+Business Capability,Digital platform delivery,Public Documentation,0.1507006327791103,0.8802118740505617,0.8861997099284566,False,Over-represented,0.1507006327791103
+Question Intent,Evaluate options / fit,Public Documentation | Governance Framework | Risk Register | SME,-0.09360535514973628,0.9254226555012298,0.9254226555012298,False,Under-represented,0.09360535514973628
